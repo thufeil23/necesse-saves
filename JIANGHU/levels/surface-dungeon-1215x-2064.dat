@@ -1,0 +1,35 @@
+LEVEL = {
+	gameVersion = 1.1.1,
+	stringID = dungeon,
+	identifier = surface-dungeon-1215x-2064,
+	width = 200,
+	height = 200,
+	MODS = {
+	},
+	isCave = true,
+	lastWorldTime = 33865299,
+	biome = dungeon,
+	isProtected = false,
+	isRaining = false,
+	rainTimer = 0,
+	GNDData = {
+	},
+	LEVELDATA = {
+	},
+	EVENTS = {
+	},
+	STATS = {
+		time_played = {
+			value = 3
+		},
+		distance_ran = {
+			value = 153
+		},
+		biomes_known = {
+			visitedBiomes = [dungeon]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = []
+		}
+	}
+}

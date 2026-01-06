@@ -1,0 +1,563 @@
+PLAYER = {
+	name = Kaze Kuroda,
+	characterUniqueID = -859161500,
+	permissions = 4,
+	needAppearance = false,
+	team = 0,
+	pvp = false,
+	isDead = false,
+	MOB = {
+		uniqueID = 0,
+		dir = 1,
+		x = -45985.562,
+		y = -53893.016,
+		dx = 0.0,
+		dy = 0.0,
+		maxhealth = 100,
+		health = 100,
+		maxresilience = 0,
+		resilience = 0.0,
+		maxmana = 100,
+		mana = 100.0,
+		canDespawn = false,
+		lastCombatTime = 48552745,
+		lastManaSpentTime = 0,
+		isManaExhausted = false,
+		BUFFS = {
+			{
+				stringID = foodbuff0,
+				duration = 34619,
+				GNDData = {
+					eatenIndex = {
+						gndType = int,
+						value = 1
+					},
+					foodItem = {
+						gndType = gameitem,
+						value = roastedfish
+					}
+				}
+			}
+		},
+		inventoryExtended = false,
+		creativeMenuExtended = true,
+		autoOpenDoors = true,
+		hotbarLocked = false,
+		hungerLevel = 0.64364,
+		hasGodModeInCreative = true,
+		HEALTH_UPGRADES = {
+		},
+		LOOK = {
+			shirtColor = [108, 217, 181, 255],
+			shoesColor = [108, 191, 217, 255],
+			skin = 18,
+			hair = 13,
+			facialFeature = 0,
+			hairColor = 8,
+			eyeType = 0,
+			eyeColor = 9
+		},
+		INVENTORY = {
+			DRAG = {
+				size = 1
+			},
+			MAIN = {
+				size = 50,
+				ITEM = {
+					slot = 0,
+					stringID = frostaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = frostpickaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = frostbow,
+					amount = 1
+				},
+				ITEM = {
+					slot = 3,
+					stringID = handgun,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = trained
+						}
+					}
+				},
+				ITEM = {
+					slot = 4,
+					stringID = katana,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = berserk
+						},
+						slash = {
+							gndType = bool,
+							value = true
+						}
+					}
+				},
+				ITEM = {
+					slot = 5,
+					stringID = dynamitestick,
+					amount = 4
+				},
+				ITEM = {
+					slot = 6,
+					stringID = mushroom,
+					amount = 2,
+					GNDData = {
+						spoilTime = {
+							gndType = long,
+							value = 59987089
+						},
+						spoilModifier = {
+							gndType = float,
+							value = 1.0
+						}
+					}
+				},
+				ITEM = {
+					slot = 7,
+					stringID = roastedfish,
+					amount = 4,
+					GNDData = {
+						spoilTime = {
+							gndType = long,
+							value = 63450941
+						},
+						spoilModifier = {
+							gndType = float,
+							value = 1.0
+						}
+					}
+				},
+				ITEM = {
+					slot = 8,
+					stringID = meatballs,
+					amount = 2,
+					GNDData = {
+						spoilTime = {
+							gndType = long,
+							value = 53212865
+						},
+						spoilModifier = {
+							gndType = float,
+							value = 1.0
+						}
+					}
+				},
+				ITEM = {
+					slot = 9,
+					stringID = recallscroll,
+					amount = 20
+				},
+				ITEM = {
+					slot = 10,
+					stringID = goldpickaxe,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = master
+						}
+					}
+				},
+				ITEM = {
+					slot = 11,
+					stringID = goldshovel,
+					amount = 1
+				},
+				ITEM = {
+					slot = 12,
+					stringID = ironbomb,
+					amount = 4
+				},
+				ITEM = {
+					slot = 13,
+					stringID = bouncingbullet,
+					amount = 20
+				},
+				ITEM = {
+					slot = 14,
+					stringID = firearrow,
+					amount = 62
+				},
+				ITEM = {
+					slot = 15,
+					stringID = ironarrow,
+					amount = 111
+				},
+				ITEM = {
+					slot = 16,
+					stringID = simplebullet,
+					amount = 902
+				},
+				ITEM = {
+					slot = 17,
+					stringID = voidbullet,
+					amount = 12
+				},
+				ITEM = {
+					slot = 18,
+					stringID = wormbait,
+					amount = 2
+				},
+				ITEM = {
+					slot = 19,
+					stringID = teleportationscroll,
+					amount = 1
+				},
+				ITEM = {
+					slot = 20,
+					stringID = attackspeedpotion,
+					amount = 10
+				},
+				ITEM = {
+					slot = 21,
+					stringID = battlepotion,
+					amount = 3
+				},
+				ITEM = {
+					slot = 22,
+					stringID = healthpotion,
+					amount = 12
+				},
+				ITEM = {
+					slot = 23,
+					stringID = healthregenpotion,
+					amount = 6
+				},
+				ITEM = {
+					slot = 24,
+					stringID = oillantern,
+					amount = 93
+				},
+				ITEM = {
+					slot = 25,
+					stringID = grizzlycub,
+					amount = 1
+				}
+			},
+			ARMOR = {
+				size = 3,
+				ITEM = {
+					slot = 0,
+					stringID = frosthood,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = frostchestplate,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = frostboots,
+					amount = 1
+				}
+			},
+			COSMETIC = {
+				size = 3,
+				ITEM = {
+					slot = 0,
+					stringID = sharkmask,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = sharkcostumeshirt,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = sharkcostumeboots,
+					amount = 1
+				}
+			},
+			EQUIPMENT = {
+				size = 2,
+				ITEM = {
+					slot = 1,
+					stringID = zephyrboots,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = nimble
+						}
+					}
+				}
+			},
+			TRINKETS = {
+				size = 4,
+				ITEM = {
+					slot = 0,
+					stringID = noblehorseshoe,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = quick
+						}
+					}
+				},
+				ITEM = {
+					slot = 1,
+					stringID = cavelingsfoot,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = calmingrose,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = draining
+						}
+					}
+				},
+				ITEM = {
+					slot = 3,
+					stringID = shinebelt,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = flimsy
+						}
+					}
+				}
+			},
+			selectedSet = 0,
+			CLOUD = {
+				size = 1
+			},
+			PARTY = {
+				size = 5
+			}
+		}
+	},
+	level = surface,
+	spawnLevel = surface,
+	spawnTile = [-1432, -1704],
+	adventureParty = {
+		buffPotionPolicy = IN_COMBAT
+	},
+	hasNewJournalEntry = false,
+	quests = [-260797622],
+	trackedQuests = [-260797622],
+	DEATHS = {
+		death = {
+			time = 47409,
+			level = cavetrial-1638x-1669,
+			x = 341,
+			y = 1320
+		},
+		death = {
+			time = 47934,
+			level = cavetrial-1638x-1669,
+			x = 664,
+			y = 482
+		},
+		death = {
+			time = 47993,
+			level = surface,
+			x = -45800,
+			y = -53982
+		},
+		death = {
+			time = 48006,
+			level = surface,
+			x = -45116,
+			y = -54211
+		}
+	},
+	STATS = {
+		time_played = {
+			value = 48795
+		},
+		distance_ran = {
+			value = 2796859
+		},
+		damage_dealt = {
+			value = 149355
+		},
+		damage_taken = {
+			value = 9026
+		},
+		deaths = {
+			value = 22
+		},
+		objects_mined = {
+			value = 8675
+		},
+		objects_placed = {
+			value = 1980
+		},
+		tiles_mined = {
+			value = 152
+		},
+		tiles_placed = {
+			value = 837
+		},
+		money_earned = {
+			value = 150
+		},
+		items_sold = {
+			value = 3
+		},
+		money_spent = {
+			value = 4728
+		},
+		items_bought = {
+			value = 12
+		},
+		items_enchanted = {
+			value = 3
+		},
+		ladders_used = {
+			value = 40
+		},
+		doors_used = {
+			value = 4429
+		},
+		plates_triggered = {
+			value = 820
+		},
+		levers_flicked = {
+			value = 1
+		},
+		crafted_items = {
+			value = 2321
+		},
+		crates_broken = {
+			value = 136
+		},
+		type_damage_dealt = {
+			ranged = 96219,
+			normal = 24500,
+			summon = 2590,
+			melee = 24643
+		},
+		set_bonuses_worn = {
+			sets = [frosthoodsetbonus]
+		},
+		trinkets_worn = {
+			trinkets = [zephyrboots, cavelingsfoot, constructionhammer, zephyrcharm, noblehorseshoe, mesmertablet, calmingrose, vampiresgift, shinebelt]
+		},
+		biomes_known = {
+			visitedBiomes = [forest, trialroom, snow, dungeon, plains]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = [plainssurface, snowcave, forestcave, forestsurface, snowsurface, dungeon]
+		},
+		items_obtained = {
+			items = [ironaxe, leatherdashers, egg, sprucechair, woodsword, beef, mackerel, maplesapling, maplelog, copperchestplate, oakbathtub, beet, mushroom, sapphire, chickencostumeshirt, coppersword, spiderboots, milk, frostboots, snowstone, tomatoseed, dungeondesk, bucket, dungeoncabinet, icejavelin, horsecostumeboots, sprucechest, manapotion, dungeonflametrap, grindthealarmsvinyl, sprucedesk, stonebrickfloor, sharkmask, pinedisplay, dungeonbench, fieldsofserenityvinyl, brokenherbglassdisplay, pottedflower2, pottedflower4, tomato, glassbottle, swamplarva, clay, dungeonchair, snowstonepressureplate, oakcandelabra, sharkscales, oakcabinet, rawmutton, ironhelmet, beetseed, birchlog, wheat, villagemap, ironore, oaktoilet, dungeonmap, sprucemodulartable, compostbin, dungeondinnertable, pottedplant4, shoes, sunflower, ironanvil, sprucebed, dynamitestick, gobfish, coolingbox, battlepotion, heartcarpet, trapperhat, cabbageseed, firemone, settlementflag, copperpitchfork, ironboots, wool, goldaxe, dungeonchest, whiteflowerpatch, horsecostumeshirt, trout, alchemytable, farmland, frostarrow, firearrow, herring, sprucecandelabra, sharkcostumeshirt, redflowerpatch, piratebandana, glass, queenbee, blueberry, icearrowtrap, paintinglargecastle, oillantern, vampiresgift, cornseed, recallscroll, goldore, coconut, rocktile, auroratundravinyl, frostbow, dungeonbathtub, forge, dungeonmodulartable, thornspotion, simplebullet, dungeontoilet, attackspeedpotion, overgrowngrassseed, horsemask, dungeonbookshelf, coin, stonepressureplate, frostpickaxe, blueberrysapling, zephyrcharm, rope, book, amethyst, oakclock, zephyrboots, goldpickaxe, apple, meatballs, sharktooth, willowchest, honey, grizzlycub, craftingguide, paintingbroken, frogcostumeshirt, ironbomb, knockbackpotion, copperstreetlamp, copperbar, shinebelt, stone, cavelingsfoot, healthpotion, grassseed, flowerpot, caveglow, calmingrose, mysteriousportal, depthsoftheforestvinyl, enchantingscroll, raspberrysapling, oakbench, roastedfish, roastedmutton, fireresistancepotion, goldspear, dungeoncandelabra, lightninghammer, piratechest, cabbage, spoiledfood, noblehorseshoe, popcorn, miningpotion, awakeningtwilightvinyl, roastingstation, wormbait, oakdresser, stonepathtile, voidspear, ironbar, oakbookshelf, sapphiregravel, sprucedoublebed, sprucebookshelf, voidshard, woodfence, fishingpotion, tikitorch, hardboiledegg, iceblossom, katana, partyhat, flour, frogmask, woodarrowtrap, woodshovel, goldgreatbow, frostbullet, cavespidergland, snowstonewall, ironchestplate, raspberry, dungeondisplay, heavyhammer, forestpathvinyl, sugarbeet, glyphtrapreversedamage, accuracypotion, mobilitycloak, ironarrow, leather, minecart, carp, oaklog, voidbullet, brokencoppertool, handgun, waterlantern, tnt, airlockfailurevinyl, oakdisplay, wooddoor, goldbow, woodbow, leatherboots, frostchestplate, sprucesapling, goldshovel, sprucelog, woodpickaxe, woodwall, voidcaller, oakmodulartable, stonefence, yellowflowerpatch, feedingtrough, magicbranch, barrel, bouncingbullet, bread, constructionhammer, chickenmask, sunflowerseed, healthregenpotion, chickencostumeboots, torch, stonetiledfloor, swampgrassseed, mapfragment, voidalchemytable, lantern, grainmill, homevinyl, shirt, firemoneseed, candle, plainsgrassseed, cod, cartographertable, frogleg, stonefloor, stonecolumn, sugarbeetseed, furfish, royalegg, dungeonbed, corn, minecarttrack, sign, iceblossomseed, rawchickenleg, piratemap, speedpotion, bloodbolt, dungeondoublebed, dungeonclock, bluecarpet, rabbitleg, cavewatergrass, shears, goldglaive, oakchair, mesmertablet, teleportationscroll, stonedoor, oakdesk, copperore, goldbar, overgrownfishingrod, dungeonfloor, icedoor, workstationduo, copperpickaxe, pinechest, watergrass, salmon, eggnest, dungeondresser, goldhelmet, dungeonvoidtrap, duckbreast, stonearrow, bouncingarrow, voidboomerang, stonewall, nunchucks, sharkcostumeboots, oakdinnertable, dungeonarrowtrap, pinedoublebed, tuna, ninjastar, steak, halffish, snowstonearrowtrap, spruceclock, manaregenpotion, frosthood, oakchest, snowstonebrickfloor, dungeonpressureplate, meadowmeanderingvinyl, frostspear, pinesapling, spiderstaff, glowcoral, quillandparchment, rapidpotion, voidsembracevinyl, frostshard, skull, firechalice, stonearrowtrap, woodfishingrod, sandtile, batwing, glyphtrapbounce, resistancepotion, wheatseed, revivalpotion, fins, dungeonwall, birchsapling, oaksapling, fertilizer, apiary, woodfencegate, frogcostumeboots, icewall, waterfaevinyl, frostaxe, storagebox, brokenirontool, oakbed, woodaxe, snowstonedoor, ironpickaxe]
+		},
+		mob_kills = {
+			chicken = 6,
+			trenchcoatgoblinstacked = 9,
+			pirateraider = 7,
+			cavemole = 11,
+			enchantedzombiearcher = 95,
+			humanraider = 18,
+			cow = 12,
+			frozendwarf = 68,
+			mouse = 75,
+			trenchcoatgoblinchestplate = 8,
+			duck = 1,
+			rabbit = 4,
+			vampire = 36,
+			zombie = 470,
+			frostsentry = 6,
+			goblin = 74,
+			zombiearcher = 140,
+			sheep = 1,
+			giantcavespider = 32,
+			ram = 1,
+			shark = 7,
+			rooster = 1,
+			portalminion = 22,
+			trenchcoatgoblinhelmet = 8,
+			enchantedcrawlingzombie = 25,
+			stonecaveling = 9,
+			crawlingzombie = 38,
+			grizzlybear = 1,
+			voidapprentice = 57,
+			cropplerbeet = 7,
+			enchantedzombie = 131,
+			squirrel = 2,
+			trapperzombie = 40,
+			snowstonecaveling = 9,
+			trenchcoatgoblinshoes = 8,
+			bull = 6,
+			spider = 70,
+			blackcavespider = 9
+		},
+		food_consumed = {
+			bread = 20,
+			meatballs = 8,
+			cabbage = 14,
+			blueberry = 6,
+			steak = 22,
+			egg = 1,
+			popcorn = 5,
+			tomato = 3,
+			roastedfish = 23,
+			roastedmutton = 2
+		},
+		potions_consumed = {
+			fireresistancepotion = 1,
+			battlepotion = 7,
+			healthpotion = 66,
+			resistancepotion = 8,
+			healthregenpotion = 13,
+			rapidpotion = 2,
+			manaregenpotion = 1,
+			attackspeedpotion = 12,
+			knockbackpotion = 4,
+			accuracypotion = 3,
+			speedpotion = 3
+		},
+		challenges_completed = {
+			completedchallenges = [beatabear, mineorewithexplosive, upgradealchemytable, impalejavelins, findvoidwizardchamber, equipfrostset, killzombies, usemysteriousportal, defeatcaveling, capturecow, freecapturedmage, destroyroyalegg]
+		},
+		challenges_claimed = {
+			claimedchallenges = [beatabear, mineorewithexplosive, impalejavelins, findvoidwizardchamber, snowcave, equipfrostset, killzombies, forestsurface, usemysteriousportal, capturecow, defeatcaveling, destroyroyalegg, dungeon, forestcave, upgradealchemytable, freecapturedmage]
+		},
+		challenges_data = {
+			gndData = {
+				smackleafpilesDestroys = {
+					gndType = int,
+					value = 15
+				}
+			}
+		}
+	},
+	NEWSTATS = {
+		set_bonuses_worn = {
+			sets = [frosthoodsetbonus]
+		},
+		trinkets_worn = {
+			trinkets = [cavelingsfoot, zephyrboots, noblehorseshoe, calmingrose, shinebelt]
+		},
+		biomes_known = {
+			visitedBiomes = []
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = []
+		},
+		items_obtained = {
+			items = [ironaxe, egg, beef, mackerel, maplesapling, maplelog, copperchestplate, oakbathtub, beet, mushroom, coppersword, spiderboots, milk, frostboots, snowstone, tomatoseed, bucket, dungeondesk, dungeoncabinet, icejavelin, manapotion, dungeonflametrap, sprucedesk, stonebrickfloor, sharkmask, dungeonbench, brokenherbglassdisplay, pottedflower2, pottedflower4, tomato, swamplarva, dungeonchair, clay, oakcandelabra, sharkscales, oakcabinet, ironhelmet, beetseed, birchlog, wheat, villagemap, ironore, oaktoilet, dungeonmap, dungeondinnertable, pottedplant4, sunflower, dynamitestick, gobfish, battlepotion, heartcarpet, cabbageseed, firemone, copperpitchfork, ironboots, wool, dungeonchest, whiteflowerpatch, trout, alchemytable, farmland, frostarrow, firearrow, herring, sharkcostumeshirt, redflowerpatch, queenbee, blueberry, icearrowtrap, oillantern, cornseed, recallscroll, goldore, coconut, rocktile, frostbow, dungeonbathtub, dungeonmodulartable, forge, simplebullet, dungeontoilet, attackspeedpotion, dungeonbookshelf, coin, frostpickaxe, blueberrysapling, rope, book, oakclock, zephyrboots, goldpickaxe, meatballs, sharktooth, willowchest, honey, grizzlycub, paintingbroken, ironbomb, knockbackpotion, shinebelt, stone, cavelingsfoot, healthpotion, grassseed, flowerpot, calmingrose, mysteriousportal, enchantingscroll, raspberrysapling, oakbench, roastedfish, piratechest, dungeoncandelabra, lightninghammer, spoiledfood, cabbage, noblehorseshoe, popcorn, awakeningtwilightvinyl, wormbait, oakdresser, stonepathtile, voidspear, oakbookshelf, ironbar, voidshard, woodfence, fishingpotion, iceblossom, katana, flour, partyhat, goldgreatbow, snowstonewall, ironchestplate, dungeondisplay, raspberry, heavyhammer, glyphtrapreversedamage, ironarrow, leather, minecart, carp, oaklog, voidbullet, handgun, brokencoppertool, airlockfailurevinyl, oakdisplay, wooddoor, goldbow, leatherboots, frostchestplate, sprucesapling, goldshovel, sprucelog, woodwall, voidcaller, oakmodulartable, stonefence, yellowflowerpatch, feedingtrough, magicbranch, barrel, bouncingbullet, bread, healthregenpotion, sunflowerseed, torch, stonetiledfloor, mapfragment, homevinyl, firemoneseed, stonefloor, stonecolumn, furfish, royalegg, dungeonbed, corn, minecarttrack, iceblossomseed, sign, rawchickenleg, piratemap, speedpotion, dungeondoublebed, bloodbolt, dungeonclock, bluecarpet, rabbitleg, shears, oakchair, goldglaive, mesmertablet, teleportationscroll, stonedoor, oakdesk, overgrownfishingrod, copperore, goldbar, dungeonfloor, icedoor, watergrass, workstationduo, pinechest, salmon, eggnest, dungeondresser, dungeonvoidtrap, goldhelmet, duckbreast, stonearrow, voidboomerang, stonewall, nunchucks, sharkcostumeboots, oakdinnertable, dungeonarrowtrap, tuna, ninjastar, halffish, manaregenpotion, frosthood, oakchest, dungeonpressureplate, snowstonebrickfloor, pinesapling, spiderstaff, quillandparchment, frostshard, skull, firechalice, stonearrowtrap, woodfishingrod, batwing, wheatseed, revivalpotion, fins, dungeonwall, birchsapling, oaksapling, woodfencegate, apiary, icewall, waterfaevinyl, frostaxe, storagebox, oakbed, brokenirontool, snowstonedoor, woodaxe]
+		}
+	}
+}

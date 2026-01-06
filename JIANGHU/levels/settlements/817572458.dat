@@ -1,0 +1,2028 @@
+{
+	NETWORK = {
+		tileX = -1446,
+		tileY = -1699,
+		flagTier = 0,
+		nameSet = true,
+		name = {
+			stringID = static,
+			message = Nameless
+		},
+		ownerAuth = 76561198374940243,
+		isPrivate = false,
+		notifications = {
+			notification = {
+				stringID = unhappy,
+				settlers = {
+					submission = {
+						submitterUniqueID = -2096322356,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = -1943671276,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = 1894361480,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = 645165222,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = -1269498090,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = 1110027101,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = 315924497,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = 1472166712,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = 392348425,
+						severity = NOTE
+					},
+					submission = {
+						submitterUniqueID = -47393312,
+						severity = NOTE
+					}
+				}
+			}
+		}
+	},
+	SERVER = {
+		settlementTicks = 48772,
+		questTier = evilsprotector,
+		hasCompletedQuestTier = false,
+		totalCompletedQuests = 0,
+		clientQuests = {
+			quests = {
+				clientAuth = 76561198374940243,
+				questTiersCompleted = [],
+				tierQuestsCompleted = 0,
+				totalCompletedQuests = 0,
+				lastRandomQuest = 0,
+				questUniqueID = 0,
+				questGeneratedWorldTime = 0,
+				tierQuestUniqueIDs = {
+					{
+						tierStringID = evilsprotector,
+						questUniqueID = -260797622
+					}
+				}
+			},
+			quests = {
+				clientAuth = 76561198288000817,
+				questTiersCompleted = [],
+				tierQuestsCompleted = 0,
+				totalCompletedQuests = 0,
+				lastRandomQuest = 0,
+				questUniqueID = 0,
+				questGeneratedWorldTime = 0,
+				tierQuestUniqueIDs = {
+					{
+						tierStringID = evilsprotector,
+						questUniqueID = -951433433
+					}
+				}
+			},
+			quests = {
+				clientAuth = 76561198140761466,
+				questTiersCompleted = [],
+				tierQuestsCompleted = 0,
+				totalCompletedQuests = 0,
+				lastRandomQuest = 0,
+				questUniqueID = 0,
+				questGeneratedWorldTime = 0,
+				tierQuestUniqueIDs = {
+					{
+						tierStringID = evilsprotector,
+						questUniqueID = -96292899
+					}
+				}
+			},
+			quests = {
+				clientAuth = 76561198272192937,
+				questTiersCompleted = [],
+				tierQuestsCompleted = 0,
+				totalCompletedQuests = 0,
+				lastRandomQuest = 0,
+				questUniqueID = 0,
+				questGeneratedWorldTime = 0,
+				tierQuestUniqueIDs = {
+					{
+						tierStringID = evilsprotector,
+						questUniqueID = -380696478
+					}
+				}
+			}
+		},
+		nextVisitorTimer = 356,
+		currentVisitorUniqueID = -1888133522,
+		nextVisitorIsRecruit = true,
+		lastVisitorIdentifier = exoticmerchant,
+		nextRaid = 18812,
+		currentRaid = 0,
+		nextRaidDifficultyMod = 0.9608864,
+		raidsCounter = 2,
+		waystones = {
+		},
+		missionBoardSlots = 2,
+		newSettlerDiet = {
+			limitMode = TOTAL_ITEMS,
+			categories = {
+				allChildrenAllowed = true,
+				allChildrenDefault = true,
+				allItemsAllowed = false,
+				allItemsDefault = true
+			},
+			itemsAllowed = []
+		},
+		newSettlerSelfManageEquipment = true,
+		newSettlerEquipmentPreferArmorSets = true,
+		newSettlerEquipmentFilter = {
+			limitMode = TOTAL_ITEMS,
+			categories = {
+				allChildrenAllowed = true,
+				allChildrenDefault = true,
+				allItemsAllowed = false,
+				allItemsDefault = true
+			},
+			itemsAllowed = []
+		},
+		nextTileTick = [-1469, -1717],
+		SETTLERS = {
+			SETTLER = {
+				stringID = angler,
+				mobUniqueID = -1424376341,
+				seed = -1015570481,
+				bed = [-1430, -1721],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = guard,
+				mobUniqueID = -510851557,
+				seed = 812574274,
+				bed = [-1416, -1725],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = guard,
+				mobUniqueID = -154245119,
+				seed = 1976049881,
+				bed = [-1410, -1742],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = elder,
+				mobUniqueID = -1175004484,
+				seed = -618224700,
+				bed = [-1453, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = animalkeeper,
+				mobUniqueID = -1269498090,
+				seed = -2053161741,
+				bed = [-1450, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = blacksmith,
+				mobUniqueID = -2096322356,
+				seed = 1926037992,
+				bed = [-1451, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = animalkeeper,
+				mobUniqueID = -47393312,
+				seed = 2023132350,
+				bed = [-1452, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = farmer,
+				mobUniqueID = 315924497,
+				seed = -486275240,
+				bed = [-1445, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = generic,
+				mobUniqueID = -1943671276,
+				seed = 596212277,
+				bed = [-1446, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = hunter,
+				mobUniqueID = 1472166712,
+				seed = 1499005719,
+				bed = [-1447, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = generic,
+				mobUniqueID = 1894361480,
+				seed = 2072951846,
+				bed = [-1448, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = miner,
+				mobUniqueID = 645165222,
+				seed = -1306373961,
+				bed = [-1441, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = farmer,
+				mobUniqueID = 1110027101,
+				seed = -2029882952,
+				bed = [-1442, -1709],
+				preferArmorSets = true
+			},
+			SETTLER = {
+				stringID = mage,
+				mobUniqueID = 392348425,
+				seed = -666709244,
+				bed = [-1443, -1709],
+				preferArmorSets = true
+			}
+		},
+		BEDS = {
+			BED = {
+				tileX = -1453,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1450,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1451,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1452,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1445,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1446,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1447,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1448,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1441,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1410,
+				tileY = -1742,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1442,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1430,
+				tileY = -1721,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1443,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1444,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1437,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1438,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1440,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1435,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1436,
+				tileY = -1709,
+				isLocked = false
+			},
+			BED = {
+				tileX = -1416,
+				tileY = -1725,
+				isLocked = false
+			}
+		},
+		ROOMS = {
+			ROOM = {
+				tile = [-1453, -1709]
+			},
+			ROOM = {
+				tile = [-1454, -1710]
+			},
+			ROOM = {
+				tile = [-1435, -1691]
+			},
+			ROOM = {
+				tile = [-1438, -1692]
+			},
+			ROOM = {
+				tile = [-1437, -1693]
+			},
+			ROOM = {
+				tile = [-1442, -1698]
+			},
+			ROOM = {
+				tile = [-1449, -1697]
+			},
+			ROOM = {
+				tile = [-1441, -1698]
+			},
+			ROOM = {
+				tile = [-1440, -1695]
+			},
+			ROOM = {
+				tile = [-1454, -1709]
+			},
+			ROOM = {
+				tile = [-1453, -1710]
+			},
+			ROOM = {
+				tile = [-1435, -1692]
+			},
+			ROOM = {
+				tile = [-1438, -1693]
+			},
+			ROOM = {
+				tile = [-1444, -1698]
+			},
+			ROOM = {
+				tile = [-1435, -1689]
+			},
+			ROOM = {
+				tile = [-1439, -1693]
+			},
+			ROOM = {
+				tile = [-1440, -1694]
+			},
+			ROOM = {
+				tile = [-1443, -1698]
+			},
+			ROOM = {
+				tile = [-1436, -1689]
+			},
+			ROOM = {
+				tile = [-1435, -1690]
+			},
+			ROOM = {
+				tile = [-1440, -1693]
+			},
+			ROOM = {
+				tile = [-1454, -1706]
+			},
+			ROOM = {
+				tile = [-1450, -1710]
+			},
+			ROOM = {
+				tile = [-1437, -1689]
+			},
+			ROOM = {
+				tile = [-1439, -1691]
+			},
+			ROOM = {
+				tile = [-1446, -1698]
+			},
+			ROOM = {
+				tile = [-1454, -1705]
+			},
+			ROOM = {
+				tile = [-1445, -1698]
+			},
+			ROOM = {
+				tile = [-1449, -1710]
+			},
+			ROOM = {
+				tile = [-1438, -1689]
+			},
+			ROOM = {
+				tile = [-1439, -1692]
+			},
+			ROOM = {
+				tile = [-1454, -1708]
+			},
+			ROOM = {
+				tile = [-1448, -1698]
+			},
+			ROOM = {
+				tile = [-1452, -1710]
+			},
+			ROOM = {
+				tile = [-1439, -1689]
+			},
+			ROOM = {
+				tile = [-1435, -1693]
+			},
+			ROOM = {
+				tile = [-1447, -1698]
+			},
+			ROOM = {
+				tile = [-1454, -1707]
+			},
+			ROOM = {
+				tile = [-1436, -1693]
+			},
+			ROOM = {
+				tile = [-1451, -1710]
+			},
+			ROOM = {
+				tile = [-1440, -1689]
+			},
+			ROOM = {
+				tile = [-1439, -1690]
+			},
+			ROOM = {
+				tile = [-1454, -1702]
+			},
+			ROOM = {
+				tile = [-1446, -1710]
+			},
+			ROOM = {
+				tile = [-1450, -1698]
+			},
+			ROOM = {
+				tile = [-1435, -1683]
+			},
+			ROOM = {
+				tile = [-1445, -1688]
+			},
+			ROOM = {
+				tile = [-1449, -1698]
+			},
+			ROOM = {
+				tile = [-1445, -1710]
+			},
+			ROOM = {
+				tile = [-1436, -1683]
+			},
+			ROOM = {
+				tile = [-1435, -1684]
+			},
+			ROOM = {
+				tile = [-1450, -1697]
+			},
+			ROOM = {
+				tile = [-1454, -1701]
+			},
+			ROOM = {
+				tile = [-1454, -1704]
+			},
+			ROOM = {
+				tile = [-1448, -1710]
+			},
+			ROOM = {
+				tile = [-1452, -1698]
+			},
+			ROOM = {
+				tile = [-1445, -1682]
+			},
+			ROOM = {
+				tile = [-1435, -1681]
+			},
+			ROOM = {
+				tile = [-1454, -1703]
+			},
+			ROOM = {
+				tile = [-1447, -1710]
+			},
+			ROOM = {
+				tile = [-1451, -1698]
+			},
+			ROOM = {
+				tile = [-1435, -1682]
+			},
+			ROOM = {
+				tile = [-1435, -1687]
+			},
+			ROOM = {
+				tile = [-1454, -1698]
+			},
+			ROOM = {
+				tile = [-1442, -1710]
+			},
+			ROOM = {
+				tile = [-1453, -1698]
+			},
+			ROOM = {
+				tile = [-1441, -1710]
+			},
+			ROOM = {
+				tile = [-1435, -1688]
+			},
+			ROOM = {
+				tile = [-1440, -1683]
+			},
+			ROOM = {
+				tile = [-1435, -1685]
+			},
+			ROOM = {
+				tile = [-1454, -1700]
+			},
+			ROOM = {
+				tile = [-1444, -1710]
+			},
+			ROOM = {
+				tile = [-1437, -1683]
+			},
+			ROOM = {
+				tile = [-1454, -1699]
+			},
+			ROOM = {
+				tile = [-1443, -1710]
+			},
+			ROOM = {
+				tile = [-1435, -1686]
+			},
+			ROOM = {
+				tile = [-1445, -1717]
+			},
+			ROOM = {
+				tile = [-1446, -1718]
+			},
+			ROOM = {
+				tile = [-1438, -1678]
+			},
+			ROOM = {
+				tile = [-1446, -1717]
+			},
+			ROOM = {
+				tile = [-1437, -1678]
+			},
+			ROOM = {
+				tile = [-1445, -1719]
+			},
+			ROOM = {
+				tile = [-1446, -1720]
+			},
+			ROOM = {
+				tile = [-1440, -1678]
+			},
+			ROOM = {
+				tile = [-1446, -1719]
+			},
+			ROOM = {
+				tile = [-1445, -1720]
+			},
+			ROOM = {
+				tile = [-1439, -1678]
+			},
+			ROOM = {
+				tile = [-1442, -1718]
+			},
+			ROOM = {
+				tile = [-1441, -1717]
+			},
+			ROOM = {
+				tile = [-1444, -1720]
+			},
+			ROOM = {
+				tile = [-1435, -1679]
+			},
+			ROOM = {
+				tile = [-1435, -1680]
+			},
+			ROOM = {
+				tile = [-1442, -1717]
+			},
+			ROOM = {
+				tile = [-1443, -1720]
+			},
+			ROOM = {
+				tile = [-1430, -1721]
+			},
+			ROOM = {
+				tile = [-1442, -1720]
+			},
+			ROOM = {
+				tile = [-1443, -1717]
+			},
+			ROOM = {
+				tile = [-1436, -1678]
+			},
+			ROOM = {
+				tile = [-1442, -1719]
+			},
+			ROOM = {
+				tile = [-1444, -1717]
+			},
+			ROOM = {
+				tile = [-1435, -1678]
+			},
+			ROOM = {
+				tile = [-1441, -1721]
+			},
+			ROOM = {
+				tile = [-1442, -1721]
+			},
+			ROOM = {
+				tile = [-1429, -1717]
+			},
+			ROOM = {
+				tile = [-1434, -1722]
+			},
+			ROOM = {
+				tile = [-1469, -1693]
+			},
+			ROOM = {
+				tile = [-1430, -1717]
+			},
+			ROOM = {
+				tile = [-1433, -1722]
+			},
+			ROOM = {
+				tile = [-1429, -1718]
+			},
+			ROOM = {
+				tile = [-1468, -1691]
+			},
+			ROOM = {
+				tile = [-1431, -1717]
+			},
+			ROOM = {
+				tile = [-1436, -1722]
+			},
+			ROOM = {
+				tile = [-1429, -1719]
+			},
+			ROOM = {
+				tile = [-1432, -1717]
+			},
+			ROOM = {
+				tile = [-1435, -1722]
+			},
+			ROOM = {
+				tile = [-1429, -1720]
+			},
+			ROOM = {
+				tile = [-1467, -1690]
+			},
+			ROOM = {
+				tile = [-1472, -1693]
+			},
+			ROOM = {
+				tile = [-1437, -1721]
+			},
+			ROOM = {
+				tile = [-1416, -1725]
+			},
+			ROOM = {
+				tile = [-1438, -1721]
+			},
+			ROOM = {
+				tile = [-1437, -1722]
+			},
+			ROOM = {
+				tile = [-1439, -1721]
+			},
+			ROOM = {
+				tile = [-1427, -1717]
+			},
+			ROOM = {
+				tile = [-1440, -1721]
+			},
+			ROOM = {
+				tile = [-1428, -1717]
+			},
+			ROOM = {
+				tile = [-1469, -1692]
+			},
+			ROOM = {
+				tile = [-1437, -1717]
+			},
+			ROOM = {
+				tile = [-1426, -1722]
+			},
+			ROOM = {
+				tile = [-1446, -1678]
+			},
+			ROOM = {
+				tile = [-1469, -1685]
+			},
+			ROOM = {
+				tile = [-1438, -1717]
+			},
+			ROOM = {
+				tile = [-1445, -1678]
+			},
+			ROOM = {
+				tile = [-1469, -1686]
+			},
+			ROOM = {
+				tile = [-1437, -1718]
+			},
+			ROOM = {
+				tile = [-1471, -1685]
+			},
+			ROOM = {
+				tile = [-1428, -1722]
+			},
+			ROOM = {
+				tile = [-1426, -1724]
+			},
+			ROOM = {
+				tile = [-1446, -1680]
+			},
+			ROOM = {
+				tile = [-1439, -1717]
+			},
+			ROOM = {
+				tile = [-1427, -1722]
+			},
+			ROOM = {
+				tile = [-1426, -1723]
+			},
+			ROOM = {
+				tile = [-1446, -1679]
+			},
+			ROOM = {
+				tile = [-1437, -1720]
+			},
+			ROOM = {
+				tile = [-1467, -1687]
+			},
+			ROOM = {
+				tile = [-1429, -1721]
+			},
+			ROOM = {
+				tile = [-1430, -1722]
+			},
+			ROOM = {
+				tile = [-1425, -1725]
+			},
+			ROOM = {
+				tile = [-1442, -1678]
+			},
+			ROOM = {
+				tile = [-1433, -1717]
+			},
+			ROOM = {
+				tile = [-1429, -1722]
+			},
+			ROOM = {
+				tile = [-1434, -1717]
+			},
+			ROOM = {
+				tile = [-1425, -1726]
+			},
+			ROOM = {
+				tile = [-1426, -1725]
+			},
+			ROOM = {
+				tile = [-1441, -1678]
+			},
+			ROOM = {
+				tile = [-1468, -1687]
+			},
+			ROOM = {
+				tile = [-1435, -1717]
+			},
+			ROOM = {
+				tile = [-1432, -1722]
+			},
+			ROOM = {
+				tile = [-1444, -1678]
+			},
+			ROOM = {
+				tile = [-1468, -1686]
+			},
+			ROOM = {
+				tile = [-1436, -1717]
+			},
+			ROOM = {
+				tile = [-1431, -1722]
+			},
+			ROOM = {
+				tile = [-1443, -1678]
+			},
+			ROOM = {
+				tile = [-1438, -1710]
+			},
+			ROOM = {
+				tile = [-1418, -1722]
+			},
+			ROOM = {
+				tile = [-1422, -1726]
+			},
+			ROOM = {
+				tile = [-1422, -1729]
+			},
+			ROOM = {
+				tile = [-1424, -1728]
+			},
+			ROOM = {
+				tile = [-1415, -1719]
+			},
+			ROOM = {
+				tile = [-1443, -1683]
+			},
+			ROOM = {
+				tile = [-1434, -1706]
+			},
+			ROOM = {
+				tile = [-1446, -1686]
+			},
+			ROOM = {
+				tile = [-1446, -1685]
+			},
+			ROOM = {
+				tile = [-1437, -1710]
+			},
+			ROOM = {
+				tile = [-1415, -1720]
+			},
+			ROOM = {
+				tile = [-1417, -1722]
+			},
+			ROOM = {
+				tile = [-1421, -1726]
+			},
+			ROOM = {
+				tile = [-1423, -1728]
+			},
+			ROOM = {
+				tile = [-1424, -1727]
+			},
+			ROOM = {
+				tile = [-1444, -1683]
+			},
+			ROOM = {
+				tile = [-1434, -1705]
+			},
+			ROOM = {
+				tile = [-1434, -1708]
+			},
+			ROOM = {
+				tile = [-1440, -1710]
+			},
+			ROOM = {
+				tile = [-1415, -1717]
+			},
+			ROOM = {
+				tile = [-1420, -1722]
+			},
+			ROOM = {
+				tile = [-1424, -1726]
+			},
+			ROOM = {
+				tile = [-1441, -1683]
+			},
+			ROOM = {
+				tile = [-1446, -1688]
+			},
+			ROOM = {
+				tile = [-1439, -1710]
+			},
+			ROOM = {
+				tile = [-1434, -1707]
+			},
+			ROOM = {
+				tile = [-1415, -1718]
+			},
+			ROOM = {
+				tile = [-1419, -1722]
+			},
+			ROOM = {
+				tile = [-1423, -1726]
+			},
+			ROOM = {
+				tile = [-1416, -1717]
+			},
+			ROOM = {
+				tile = [-1442, -1683]
+			},
+			ROOM = {
+				tile = [-1446, -1687]
+			},
+			ROOM = {
+				tile = [-1450, -1694]
+			},
+			ROOM = {
+				tile = [-1446, -1682]
+			},
+			ROOM = {
+				tile = [-1434, -1710]
+			},
+			ROOM = {
+				tile = [-1422, -1722]
+			},
+			ROOM = {
+				tile = [-1418, -1726]
+			},
+			ROOM = {
+				tile = [-1449, -1694]
+			},
+			ROOM = {
+				tile = [-1446, -1681]
+			},
+			ROOM = {
+				tile = [-1434, -1709]
+			},
+			ROOM = {
+				tile = [-1421, -1722]
+			},
+			ROOM = {
+				tile = [-1417, -1726]
+			},
+			ROOM = {
+				tile = [-1436, -1710]
+			},
+			ROOM = {
+				tile = [-1420, -1726]
+			},
+			ROOM = {
+				tile = [-1445, -1683]
+			},
+			ROOM = {
+				tile = [-1446, -1684]
+			},
+			ROOM = {
+				tile = [-1450, -1696]
+			},
+			ROOM = {
+				tile = [-1450, -1695]
+			},
+			ROOM = {
+				tile = [-1446, -1683]
+			},
+			ROOM = {
+				tile = [-1435, -1710]
+			},
+			ROOM = {
+				tile = [-1419, -1726]
+			},
+			ROOM = {
+				tile = [-1434, -1698]
+			},
+			ROOM = {
+				tile = [-1445, -1693]
+			},
+			ROOM = {
+				tile = [-1441, -1689]
+			},
+			ROOM = {
+				tile = [-1446, -1694]
+			},
+			ROOM = {
+				tile = [-1421, -1717]
+			},
+			ROOM = {
+				tile = [-1415, -1727]
+			},
+			ROOM = {
+				tile = [-1445, -1694]
+			},
+			ROOM = {
+				tile = [-1442, -1689]
+			},
+			ROOM = {
+				tile = [-1422, -1717]
+			},
+			ROOM = {
+				tile = [-1415, -1728]
+			},
+			ROOM = {
+				tile = [-1448, -1694]
+			},
+			ROOM = {
+				tile = [-1434, -1700]
+			},
+			ROOM = {
+				tile = [-1436, -1698]
+			},
+			ROOM = {
+				tile = [-1415, -1725]
+			},
+			ROOM = {
+				tile = [-1416, -1726]
+			},
+			ROOM = {
+				tile = [-1423, -1717]
+			},
+			ROOM = {
+				tile = [-1434, -1699]
+			},
+			ROOM = {
+				tile = [-1447, -1694]
+			},
+			ROOM = {
+				tile = [-1444, -1689]
+			},
+			ROOM = {
+				tile = [-1435, -1698]
+			},
+			ROOM = {
+				tile = [-1424, -1717]
+			},
+			ROOM = {
+				tile = [-1415, -1726]
+			},
+			ROOM = {
+				tile = [-1434, -1702]
+			},
+			ROOM = {
+				tile = [-1445, -1689]
+			},
+			ROOM = {
+				tile = [-1415, -1723]
+			},
+			ROOM = {
+				tile = [-1417, -1717]
+			},
+			ROOM = {
+				tile = [-1438, -1698]
+			},
+			ROOM = {
+				tile = [-1434, -1701]
+			},
+			ROOM = {
+				tile = [-1446, -1689]
+			},
+			ROOM = {
+				tile = [-1445, -1690]
+			},
+			ROOM = {
+				tile = [-1415, -1724]
+			},
+			ROOM = {
+				tile = [-1418, -1717]
+			},
+			ROOM = {
+				tile = [-1434, -1704]
+			},
+			ROOM = {
+				tile = [-1415, -1721]
+			},
+			ROOM = {
+				tile = [-1416, -1722]
+			},
+			ROOM = {
+				tile = [-1419, -1717]
+			},
+			ROOM = {
+				tile = [-1440, -1698]
+			},
+			ROOM = {
+				tile = [-1434, -1703]
+			},
+			ROOM = {
+				tile = [-1420, -1717]
+			},
+			ROOM = {
+				tile = [-1415, -1722]
+			},
+			ROOM = {
+				tile = [-1445, -1692]
+			},
+			ROOM = {
+				tile = [-1439, -1698]
+			},
+			ROOM = {
+				tile = [-1440, -1697]
+			},
+			ROOM = {
+				tile = [-1418, -1738]
+			},
+			ROOM = {
+				tile = [-1422, -1742]
+			},
+			ROOM = {
+				tile = [-1416, -1736]
+			},
+			ROOM = {
+				tile = [-1423, -1743]
+			},
+			ROOM = {
+				tile = [-1410, -1742]
+			},
+			ROOM = {
+				tile = [-1422, -1741]
+			},
+			ROOM = {
+				tile = [-1418, -1737]
+			},
+			ROOM = {
+				tile = [-1424, -1743]
+			},
+			ROOM = {
+				tile = [-1415, -1736]
+			},
+			ROOM = {
+				tile = [-1418, -1740]
+			},
+			ROOM = {
+				tile = [-1421, -1743]
+			},
+			ROOM = {
+				tile = [-1414, -1736]
+			},
+			ROOM = {
+				tile = [-1425, -1741]
+			},
+			ROOM = {
+				tile = [-1422, -1743]
+			},
+			ROOM = {
+				tile = [-1413, -1736]
+			},
+			ROOM = {
+				tile = [-1424, -1740]
+			},
+			ROOM = {
+				tile = [-1418, -1742]
+			},
+			ROOM = {
+				tile = [-1419, -1743]
+			},
+			ROOM = {
+				tile = [-1412, -1736]
+			},
+			ROOM = {
+				tile = [-1420, -1743]
+			},
+			ROOM = {
+				tile = [-1418, -1741]
+			},
+			ROOM = {
+				tile = [-1411, -1736]
+			},
+			ROOM = {
+				tile = [-1423, -1740]
+			},
+			ROOM = {
+				tile = [-1417, -1743]
+			},
+			ROOM = {
+				tile = [-1410, -1736]
+			},
+			ROOM = {
+				tile = [-1415, -1729]
+			},
+			ROOM = {
+				tile = [-1416, -1730]
+			},
+			ROOM = {
+				tile = [-1422, -1740]
+			},
+			ROOM = {
+				tile = [-1424, -1737]
+			},
+			ROOM = {
+				tile = [-1409, -1736]
+			},
+			ROOM = {
+				tile = [-1415, -1730]
+			},
+			ROOM = {
+				tile = [-1418, -1743]
+			},
+			ROOM = {
+				tile = [-1409, -1737]
+			},
+			ROOM = {
+				tile = [-1424, -1736]
+			},
+			ROOM = {
+				tile = [-1415, -1743]
+			},
+			ROOM = {
+				tile = [-1418, -1730]
+			},
+			ROOM = {
+				tile = [-1409, -1738]
+			},
+			ROOM = {
+				tile = [-1423, -1736]
+			},
+			ROOM = {
+				tile = [-1416, -1743]
+			},
+			ROOM = {
+				tile = [-1417, -1730]
+			},
+			ROOM = {
+				tile = [-1409, -1739]
+			},
+			ROOM = {
+				tile = [-1413, -1743]
+			},
+			ROOM = {
+				tile = [-1420, -1730]
+			},
+			ROOM = {
+				tile = [-1422, -1736]
+			},
+			ROOM = {
+				tile = [-1409, -1740]
+			},
+			ROOM = {
+				tile = [-1414, -1743]
+			},
+			ROOM = {
+				tile = [-1419, -1730]
+			},
+			ROOM = {
+				tile = [-1421, -1736]
+			},
+			ROOM = {
+				tile = [-1411, -1743]
+			},
+			ROOM = {
+				tile = [-1409, -1741]
+			},
+			ROOM = {
+				tile = [-1422, -1730]
+			},
+			ROOM = {
+				tile = [-1420, -1736]
+			},
+			ROOM = {
+				tile = [-1412, -1743]
+			},
+			ROOM = {
+				tile = [-1409, -1742]
+			},
+			ROOM = {
+				tile = [-1421, -1730]
+			},
+			ROOM = {
+				tile = [-1419, -1736]
+			},
+			ROOM = {
+				tile = [-1409, -1743]
+			},
+			ROOM = {
+				tile = [-1423, -1729]
+			},
+			ROOM = {
+				tile = [-1418, -1736]
+			},
+			ROOM = {
+				tile = [-1410, -1743]
+			},
+			ROOM = {
+				tile = [-1423, -1730]
+			},
+			ROOM = {
+				tile = [-1417, -1736]
+			},
+			ROOM = {
+				tile = [-1474, -1686]
+			},
+			ROOM = {
+				tile = [-1473, -1686]
+			},
+			ROOM = {
+				tile = [-1425, -1737]
+			},
+			ROOM = {
+				tile = [-1475, -1691]
+			},
+			ROOM = {
+				tile = [-1425, -1738]
+			},
+			ROOM = {
+				tile = [-1425, -1739]
+			},
+			ROOM = {
+				tile = [-1426, -1740]
+			},
+			ROOM = {
+				tile = [-1429, -1743]
+			},
+			ROOM = {
+				tile = [-1426, -1739]
+			},
+			ROOM = {
+				tile = [-1475, -1690]
+			},
+			ROOM = {
+				tile = [-1473, -1692]
+			},
+			ROOM = {
+				tile = [-1427, -1743]
+			},
+			ROOM = {
+				tile = [-1426, -1741]
+			},
+			ROOM = {
+				tile = [-1428, -1743]
+			},
+			ROOM = {
+				tile = [-1427, -1741]
+			},
+			ROOM = {
+				tile = [-1428, -1742]
+			},
+			ROOM = {
+				tile = [-1425, -1743]
+			},
+			ROOM = {
+				tile = [-1427, -1742]
+			},
+			ROOM = {
+				tile = [-1426, -1743]
+			}
+		},
+		SETTLER_GROUPS = {
+			SETTLER_GROUP = {
+				uniqueID = -1181475414
+			},
+			SETTLER_GROUP = {
+				uniqueID = -1667032035
+			},
+			SETTLER_GROUP = {
+				uniqueID = -171896079
+			},
+			SETTLER_GROUP = {
+				uniqueID = 1612204156
+			},
+			SETTLER_GROUP = {
+				uniqueID = -1942017489
+			},
+			SETTLER_GROUP = {
+				uniqueID = -1716975257
+			}
+		},
+		STORAGE = {
+			INVENTORY = {
+				tile = [-1441, -1697],
+				filter = {
+					limitMode = TOTAL_ITEMS,
+					categories = {
+						allChildrenAllowed = false,
+						allChildrenDefault = false,
+						children = {
+							mobs = {
+								allChildrenAllowed = true,
+								allChildrenDefault = true,
+								allItemsAllowed = false,
+								allItemsDefault = true
+							},
+							tiles = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									floors = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									liquids = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									terrain = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = true
+							},
+							materials = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									essences = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									minerals = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									mobdrops = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									flowers = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									ore = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									specialfish = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									logs = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									bars = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									stone = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = false
+							},
+							consumable = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									commonfish = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = true,
+										allItemsDefault = true
+									},
+									potions = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									food = {
+										allChildrenAllowed = true,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = true
+									},
+									rawfood = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = true,
+										allItemsDefault = true
+									},
+									bossitems = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = false
+							},
+							objects = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									wallsanddoors = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									traps = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									craftingstations = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									furniture = {
+										allChildrenAllowed = false,
+										allChildrenDefault = false,
+										children = {
+											pine = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											palm = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											birch = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											bone = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											spidercastle = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = true
+											},
+											dungeon = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											bamboo = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											willow = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											oak = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											maple = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											dryad = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											deadwood = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											misc = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											spruce = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											}
+										},
+										allItemsAllowed = false,
+										allItemsDefault = true
+									},
+									seeds = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									columns = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									fencesandgates = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									decorations = {
+										allChildrenAllowed = false,
+										allChildrenDefault = false,
+										children = {
+											carpets = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											paintings = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											pots = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											banners = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											}
+										},
+										allItemsAllowed = false,
+										allItemsDefault = true
+									},
+									lighting = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									landscaping = {
+										allChildrenAllowed = false,
+										allChildrenDefault = false,
+										children = {
+											desertrocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											masonry = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											crystals = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											forestrocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											incursionrocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											plants = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											snowrocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											swamprocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											tabledecorations = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											rocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = true
+											},
+											plainsrocksandores = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											misc = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											}
+										},
+										allItemsAllowed = false,
+										allItemsDefault = true
+									},
+									saplings = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = true
+									},
+									misc = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = true
+							},
+							equipment = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									ammo = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									armor = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									bait = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									trinkets = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									tools = {
+										allChildrenAllowed = false,
+										allChildrenDefault = false,
+										children = {
+											pickaxes = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											shovels = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											axes = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											fishingrods = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											creative = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = true
+											},
+											misc = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											}
+										},
+										allItemsAllowed = false,
+										allItemsDefault = true
+									},
+									weapons = {
+										allChildrenAllowed = false,
+										allChildrenDefault = false,
+										children = {
+											magicweapons = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											meleeweapons = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											rangedweapons = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											summonweapons = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = false
+											},
+											throwweapons = {
+												allChildrenAllowed = false,
+												allChildrenDefault = true,
+												allItemsAllowed = false,
+												allItemsDefault = true
+											}
+										},
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									banners = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									cosmetics = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = true
+							},
+							wiring = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									logicgates = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = false
+							},
+							misc = {
+								allChildrenAllowed = false,
+								allChildrenDefault = false,
+								children = {
+									pets = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									vinyls = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									mounts = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									pouches = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									questitems = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									},
+									critters = {
+										allChildrenAllowed = false,
+										allChildrenDefault = true,
+										allItemsAllowed = false,
+										allItemsDefault = false
+									}
+								},
+								allItemsAllowed = false,
+								allItemsDefault = false
+							}
+						},
+						allItemsAllowed = false,
+						allItemsDefault = true
+					},
+					itemsAllowed = []
+				},
+				priority = 0
+			},
+			INVENTORY = {
+				tile = [-1435, -1702],
+				filter = {
+					limitMode = TOTAL_ITEMS,
+					categories = {
+						allChildrenAllowed = true,
+						allChildrenDefault = true,
+						allItemsAllowed = false,
+						allItemsDefault = true
+					},
+					itemsAllowed = []
+				},
+				priority = 0
+			}
+		},
+		WORKSTATIONS = {
+		},
+		WORKZONES = {
+		},
+		STATS = {
+			spawned_raids = {
+				humanraid = 1,
+				pirateraid = 1
+			}
+		}
+	}
+}

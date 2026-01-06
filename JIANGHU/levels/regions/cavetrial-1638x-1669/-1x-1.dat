@@ -1,0 +1,1014 @@
+{
+	0x0 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAYhSMYAgACeAgB,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 486, sprucechest, 504, sprucecandelabra, 424, traptrack, 121, stonewall],
+		objects = eNpjqGSgGDL-YFyBDhmAAEyDVDBA-BARZHkgQaY8XBVMHp8LGZBNBZvzA7881Fxi5dFswyGPHSDLo6pCiBErD_IXA5IfGTDknyHJg9kA72RcgA==,
+		objectRotations = eNo9TwkSACEIAvr_n5ejVqcEMjIAbLQC0OWtUpTjkHMQ0bwJJ5wB53GEexk7rbc1VjEh-oK9t9gGLXmbwOXY_Iz1xpTq-kf4XvIFTcvAUuxzQFxdRjz9a8ey-QedewE3,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wire = eNpjYCAEGFEAsgS6Qgr59AYHQAAAG0ID1A==,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		OBJECTENTITIES = {
+			OBJENT = {
+				name = ,
+				INVENTORY = {
+					size = 40,
+					ITEM = {
+						slot = 0,
+						stringID = skull,
+						amount = 1
+					},
+					ITEM = {
+						slot = 1,
+						stringID = torch,
+						amount = 15
+					}
+				},
+				interactedWith = true,
+				stringID = inventory,
+				x = 7,
+				y = 15
+			},
+			OBJENT = {
+				name = ,
+				INVENTORY = {
+					size = 40
+				},
+				interactedWith = true,
+				stringID = inventory,
+				x = 13,
+				y = 15
+			}
+		},
+		isPirateVillageRegion = false
+	},
+	1x1 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAYhSMYAgACeAgB,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 85, woodwall, 1270, trialexit, 936, spiketrap, 504, sprucecandelabra, 121, stonewall, 298, walltorch, 125, stonedoorunlocked, 879, stonepressureplate],
+		objects = eNpjqGQAQRCoRIXMK0AQxGL8AZIGkiC2FpClhaYWBmqZ8xnQAbI8go3KQjetEi-sxSkTimRvKIrbKmFuhwG4H3ADNB0wwPIN5lsG_ADd59jtJ-R-_P6HxgrO8MMIYdT4Y9QCAIF0SME=,
+		objectRotations = eNpNT1sSACEI4nH_OweWO8uHA1KioAGRJimJkGClBVmyQwKbWGj0Mi7UAnOcPOgoVLv1vpPXxXTzB3_opsFPG_wiC47jHcOhbMZA3HVyTenc8VzcBXJrhRuVe30AhgkBIA==,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		LOGICGATES = {
+			LOGICGATE = {
+				tileX = 17,
+				tileY = 17,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 1001,
+				wireOutputs = 0100
+			},
+			LOGICGATE = {
+				tileX = 17,
+				tileY = 16,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				timerTicks = 22
+			},
+			LOGICGATE = {
+				tileX = 20,
+				tileY = 20,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 0101,
+				wireOutputs = 1000
+			},
+			LOGICGATE = {
+				tileX = 25,
+				tileY = 19,
+				stringID = srlatchgate,
+				outputs = 0001,
+				activateInputs = 0010,
+				resetInputs = 0100,
+				wireOutputs = 0001,
+				active = true
+			}
+		},
+		wire = eNqVjDEOgDAMA22JB3TgQXm6Gbp34EFEaVQRYOEGS-dE1g6AmGFm6nTcIrOHGraomD7GiYQ8JK9Q0QT_YN14bz7vWoTz9lsd334BXdQguw==,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		OBJECTENTITIES = {
+			OBJENT = {
+				destination = cave,
+				destinationTileX = -1638,
+				destinationTileY = -1669,
+				stringID = portal.dungeonexit,
+				x = 25,
+				y = 25
+			}
+		},
+		isPirateVillageRegion = false
+	},
+	2x2 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAYhSMYAgACeAgB,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 896, stonearrowtrap, 897, stonesawtrap, 276, stonecolumn, 936, spiketrap, 424, traptrack, 504, sprucecandelabra, 121, stonewall, 298, walltorch],
+		objects = eNp9kcsRgCAMRDdDC1RBh9ywG0r0aAAXNRjY4ftCyA4AEKpR0UNIQlYhFMvBll1NGo49l2qZnEyvq86lNjHeijEuh46pzT4f_eaRFUh82OY-33c4Y0aFK5m-6SDSvVbyk8XL0P6r7_D-n9Xtl18aeXnq,
+		objectRotations = eNpNjwsOwDAIQvnc_84D2mWzi1Gkzw6AqR4DhEg30iMTKzWNpgoxJJmJ1C0mwpg_U0VT_TeKFSYdcNqt2p7xsmT5-Evhdh9_kOlfHvbpm_teKrlGTcS7fu_JDwTQe9KPM_oDtJ8BbQ==,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		LOGICGATES = {
+			LOGICGATE = {
+				tileX = 33,
+				tileY = 32,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 0100,
+				delayTicks = 27,
+				active = false
+			}
+		},
+		wire = eNqNjUEKACAIBGehB3jo_2-NykLt0gjqCIvWm3mBBBac6d3Zbji6zX1BOJBRWR4_cZVI8vTmex54GIytAc4=,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	3x3 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYIAAAAAIAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAAQwAAiAAh,
+		tileIsPlayerPlaced = eNpjYGBgYQAAAA0ABQ==,
+		objectIDs = [0, air, 121, stonewall],
+		objects = eNpjqGQAQwAHmAHl,
+		objectRotations = eNpjZmZmBAAAIAAL,
+		objectIsPlayerPlaced = eNpjYGBgYQAAAA0ABQ==,
+		tileObjects = {
+			objects = eNpjYIAAAAAIAAE=,
+			objectRotations = eNpjYGBgAAAABAAB,
+			objectIsPlayerPlaced = eNpjYGBgYQAAAA0ABQ==
+		},
+		wallDecorObjects = {
+			objects = eNpjYIAAAAAIAAE=,
+			objectRotations = eNpjYGBgAAAABAAB,
+			objectIsPlayerPlaced = eNpjYGBgYQAAAA0ABQ==
+		},
+		tableDecorObjects = {
+			objects = eNpjYIAAAAAIAAE=,
+			objectRotations = eNpjYGBgAAAABAAB,
+			objectIsPlayerPlaced = eNpjYGBgYQAAAA0ABQ==
+		},
+		wire = eNpjYGBgAAAABAAB,
+		tilesProtected = eNpjYGBgYQAAAA0ABQ==,
+		lastWorldTime = 51088533,
+		tileTickX = 1,
+		tileTickY = 0,
+		isPirateVillageRegion = false
+	},
+	0x1 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor, 11, stonepathtile],
+		tiles = eNpj4GAYhcMBcqNBTHlUDIUAB8QIJQ==,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 896, stonearrowtrap, 504, sprucecandelabra, 121, stonewall, 298, walltorch, 125, stonedoorunlocked, 879, stonepressureplate],
+		objects = eNpjqGSAQewAWR5VFUKMWHn85sMhcz42USRYi0-W8QcDAxDjkidk_0DLo6uEhUkDKkaVB4owMGpBBKA0mn4coc8AAHEASGw=,
+		objectRotations = eNpVjwsOABAMQ_u5_521Q0Il4ulqAxgURgKzm4TtMsuSMAhsRzrVmOrexG9kAjmQNFXH5aIFbWaFq7hpcCfA7if9zJ-T15P3q7yfcbLaH82Z8y3dmc9fjhaW-wEm,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		LOGICGATES = {
+			LOGICGATE = {
+				tileX = 11,
+				tileY = 28,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 1000,
+				timerTicks = 41
+			},
+			LOGICGATE = {
+				tileX = 11,
+				tileY = 20,
+				stringID = srlatchgate,
+				outputs = 0001,
+				activateInputs = 0010,
+				resetInputs = 0100,
+				wireOutputs = 0001,
+				active = true
+			},
+			LOGICGATE = {
+				tileX = 12,
+				tileY = 28,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 0011,
+				wireOutputs = 0110
+			}
+		},
+		wire = eNpjYICDAwyogACf5QgqX-AKmnJ0_TQGjKxHDoDtZIQCuAQKhcYHANMNCIM=,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	1x0 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAYhSMYAgACeAgB,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 897, stonesawtrap, 424, traptrack, 504, sprucecandelabra, 936, spiketrap, 121, stonewall, 298, walltorch],
+		objects = eNqlkMsNwDAIQ0Fskw17zDaM2GPLr3UbcUosBylPYBQ6aEusfN5WqGrvoibjRGi_nYf3uHgaGnns1_Haj3NG1vHNX5T9PIqzyiQ4_HT1PNJrA5n1c7UFpvf87V_n4w_-hfMvvB18vA==,
+		objectRotations = eNpVjgEOwDAIAgX-_-cBumRroharVwbATNMWBze1iFRDMw5nzsaQyOWr9dPeiDaTwSMkt-Qbd979kA_sth_royVzXgJqrz4ycTp82zyN-ziEdmStfBV87a9-T7wZ-QCO_AE1,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wire = eNqFjFEKACAIQ-cNPNKO3tHKaOCIaODH8zmBZ8KDINnsYnyZznAvrf_qx1kWZ4rXGLPSedeNL8-RsPsJsbIKIQ==,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	2x3 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYKAMAAAAQAAB,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GCgCAIAIEABAQ==,
+		tileIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		objectIDs = [0, air, 121, stonewall],
+		objects = eNpjqGSgCAIA5E8PIQ==,
+		objectRotations = eNpjYGRkYGBkBmIQDSQYGZmQMCMAAaQAGw==,
+		objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		tileObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wallDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		tableDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wire = eNpjYMAPAAAgAAE=,
+		tilesProtected = eNpjYGBQYAACAACoACE=,
+		lastWorldTime = 51088533,
+		tileTickX = 12,
+		tileTickY = 0,
+		isPirateVillageRegion = false
+	},
+	3x2 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYKAMAAAAQAAB,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GCgCAIAIEABAQ==,
+		tileIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		objectIDs = [0, air, 121, stonewall],
+		objects = eNpjqGSgCAIA5E8PIQ==,
+		objectRotations = eNpjYGBgYGZmZgSSUJoBLgICAAKCACI=,
+		objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		tileObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wallDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		tableDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wire = eNpjYMAPAAAgAAE=,
+		tilesProtected = eNpjYGBQYAACAACoACE=,
+		lastWorldTime = 51088533,
+		tileTickX = 0,
+		tileTickY = 7,
+		isPirateVillageRegion = false
+	},
+	0x2 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [1, dirttile, 8, stonefloor, 11, stonepathtile],
+		tiles = eNqNkNsKACAIQ-1tsP__36DLg7NVDEHUo7JATFHUAkmUQOkz1R3vRCN3X_fd6foPhK_9JvsxXOGq7_z3fmbd_3_-8TCzeab86V8HwbMIug==,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [896, stonearrowtrap, 0, air, 121, stonewall, 298, walltorch],
+		objects = eNpjqGQAQuYGBnRQCachEBdA1V-JE0LlgSpRMAOG_YxaKGw0_dhdh8X9hNwDMbMSyQRMt6H4H-wuiB5kNrH2M6BgBhz6iQw_EITQGPoR4VeJFn6YdgMxAENdRXY=,
+		objectRotations = eNplTgkOwCAMauH_fxZKzbaMJhrLISS6FsiZq3i3w3NxeTDDlz-m4fkEfHiYZ1cHiiEMqTz7P0oK-fnzh6cS_Eu71_Dbrrl6bZVKd5l39Ng8j3bucQB5awD1,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wire = eNpjYGBgZAADKEUknxEKkCUY0BQSy2dEMowa5pHiPgAXggAt,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	1x3 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYKAMAAAAQAAB,
+		tileIDs = [8, stonefloor, 11, stonepathtile],
+		tiles = eNpj4GbgoAQCACD9AQQ=,
+		tileIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		objectIDs = [0, air, 121, stonewall],
+		objects = eNpjYGCoZICASnIgAHW1DT0=,
+		objectRotations = eNpjZGJgZGJkYGBkBBNADogJJ5gAAeQAHg==,
+		objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		tileObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wallDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		tableDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wire = eNpjYMAPAAAgAAE=,
+		tilesProtected = eNpjYGBQYAACAACoACE=,
+		lastWorldTime = 51088533,
+		tileTickX = 12,
+		tileTickY = 0,
+		isPirateVillageRegion = false
+	},
+	2x0 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAYhSMYAgACeAgB,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 936, spiketrap, 504, sprucecandelabra, 121, stonewall, 298, walltorch, 895, stoneflametrap, 879, stonepressureplate],
+		objects = eNqNUUEOwCAI0_AbP-d5J7_DE3ecyiolxmxw0LRAG0hX-pXS7M1FVNTxXDrXEamOO2_Vjsc0BDj3heom1Tju8xpwUF6ONPLsBLVn3ai2-2ZFnsizfVtfs4bnN0ec74DYtjS3fYPuv3i5NF8K3PMB3ZyCbQ==,
+		objectRotations = eNpNTwkOwCAM4vj_nwdozEijPSgiAJK_Q6QoC4nUki3TC1BAb19wKSCP0LSUKRi3zjppRb_ILP00o97Ybhp9CyWp6QFKmwFpblh3ox-sVUc6Cp2yTh9G7g-ej8O4wAfGtwGm,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wire = eNpdT0EOwDAIwsTd-yT2_09NRA8rqREFG424AOBUBAmlAHmKV4bbyuRLAf0q0JNqacLERlVow_pb1WeY2pwjcLCDNtrda92uwB9zBXZfIn3aI0FSWsziH7LZF6M=,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	3x1 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYKAMAAAAQAAB,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GCgCAIAIEABAQ==,
+		tileIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		objectIDs = [0, air, 121, stonewall],
+		objects = eNpjqGSgCAIA5E8PIQ==,
+		objectRotations = eNpjYAABZmZmRgasLAAB3AAf,
+		objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		tileObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wallDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		tableDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wire = eNpjYMAPAAAgAAE=,
+		tilesProtected = eNpjYGBQYAACAACoACE=,
+		lastWorldTime = 51088533,
+		tileTickX = 0,
+		tileTickY = 7,
+		isPirateVillageRegion = false
+	},
+	0x3 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYKAMAAAAQAAB,
+		tileIDs = [1, dirttile, 8, stonefloor, 11, stonepathtile],
+		tiles = eNpj4GCAQG4UyAHHMMgIhhzoEAAjagEH,
+		tileIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		objectIDs = [896, stonearrowtrap, 0, air, 121, stonewall],
+		objects = eNpjqGQAQuYGBlRQCacJQAAP9gpx,
+		objectRotations = eNpjZmZgBAIGIMnEzMzIyMzIBBKAEwAC5QAp,
+		objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		tileObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wallDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		tableDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wire = eNpjYGBgZMADAAA9AAI=,
+		tilesProtected = eNpjYGBQYAACAACoACE=,
+		lastWorldTime = 51088533,
+		tileTickX = 12,
+		tileTickY = 0,
+		isPirateVillageRegion = false
+	},
+	1x2 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [1, dirttile, 8, stonefloor, 11, stonepathtile],
+		tiles = eNpj4GAYWMjNwEhAnmNYy1MefhTJAwASjwgY,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 896, stonearrowtrap, 936, spiketrap, 504, sprucecandelabra, 121, stonewall, 298, walltorch, 125, stonedoorunlocked, 879, stonepressureplate],
+		objects = eNpjYGCoRIEQgMwD0swrYBBDvhIiz_gDJsacj2wecwOafrAeRi0GBiBGMgEEGX-A5WtRXMGART8qQLMfyRcMWNyPVR7dPzjkkV1FjDya_5DVo7kX2cxKzPDDJQsNzR84ZXH7FAoBJUlYsg==,
+		objectRotations = eNo1jwESACEIAhH__-cWKm-mG1xCk71DaSVTHEpDvnLhrq4U7l28AapfaJfv3F7ywMOHsWf6k195EnApxbUGzNcv_-t1ZRoI9iQjZDo6y1-q-Dq822VYhuQ9UG55ngjNq5LrA66OAUc=,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		LOGICGATES = {
+			LOGICGATE = {
+				tileX = 23,
+				tileY = 36,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 24,
+				tileY = 40,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0001,
+				wireOutputs = 0100,
+				timerTicks = 31
+			},
+			LOGICGATE = {
+				tileX = 26,
+				tileY = 36,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 0101,
+				wireOutputs = 1000
+			},
+			LOGICGATE = {
+				tileX = 26,
+				tileY = 32,
+				stringID = srlatchgate,
+				outputs = 0001,
+				activateInputs = 0010,
+				resetInputs = 0100,
+				wireOutputs = 0001,
+				active = true
+			},
+			LOGICGATE = {
+				tileX = 30,
+				tileY = 32,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				timerTicks = 54
+			},
+			LOGICGATE = {
+				tileX = 19,
+				tileY = 33,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 19,
+				tileY = 37,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 20,
+				tileY = 37,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 20,
+				tileY = 33,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 5,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 21,
+				tileY = 37,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 21,
+				tileY = 33,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 5,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 22,
+				tileY = 33,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 5,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 22,
+				tileY = 37,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 23,
+				tileY = 37,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 23,
+				tileY = 41,
+				stringID = sensorgate,
+				outputs = 0000,
+				wireOutputs = 0001,
+				players = true,
+				passiveMobs = false,
+				hostileMobs = false,
+				range = 3
+			},
+			LOGICGATE = {
+				tileX = 19,
+				tileY = 34,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 19,
+				tileY = 38,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 30,
+				tileY = 34,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 1001,
+				wireOutputs = 0100
+			},
+			LOGICGATE = {
+				tileX = 31,
+				tileY = 34,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				timerTicks = 24
+			},
+			LOGICGATE = {
+				tileX = 19,
+				tileY = 35,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 19,
+				tileY = 39,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 20,
+				tileY = 39,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 20,
+				tileY = 35,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 21,
+				tileY = 39,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 21,
+				tileY = 35,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 1000,
+				wireOutputs = 0100,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 22,
+				tileY = 35,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 22,
+				tileY = 39,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 1000,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 23,
+				tileY = 35,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 23,
+				tileY = 39,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0101,
+				wireOutputs = 0010,
+				delayTicks = 7,
+				active = false
+			}
+		},
+		wire = eNqVizEOwCAMAx2J7ETKgxj6cAbYO_RBDSEItZ16i32YAEG6gKrZmgqPPM3bWNj3bI6uRBBlUaCRkUGYf2qfjfxeEIMFrxLh92m7czy9lNeOrzvb1yt-cQM3iwpT,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	2x1 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYBgFIxkAAAIAAAE=,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GAYhSMYAgACeAgB,
+		tileIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		objectIDs = [0, air, 896, stonearrowtrap, 936, spiketrap, 504, sprucecandelabra, 121, stonewall, 298, walltorch, 125, stonedoorunlocked, 879, stonepressureplate],
+		objects = eNqNUMkNwCAMS5VtWI53HpUYhxH7rDlCAhK0thAklsnBmSMJEY5wNpa4k446cIWic-LomEyvgE4OQ3fc1P-pb-rLNIlh5NA97jrDQMupBxu6aYX_8-yXI5v70dheqmOuPHPqofS36G3TvYcP_wtkf2Om,
+		objectRotations = eNpFjwEOBDEIAhn8_58PMd0zTdoJghbLnhRjkGYclkjtLaWBq8m7hzWMKmvOH0b1x5eMBlhNfv7t2RudM5zpzIdoO_TnDXg6yxmWXF5lG7Tsx9zqSaHL3xj3M2j1alSRf7S0AUo=,
+		objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==,
+		tileObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		wallDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		tableDecorObjects = {
+			objects = eNpjYBgFIxkAAAIAAAE=,
+			objectRotations = eNpjYBjZAAABAAAB,
+			objectIsPlayerPlaced = eNpjYGBkIAQAAEYAAg==
+		},
+		LOGICGATES = {
+			LOGICGATE = {
+				tileX = 32,
+				tileY = 26,
+				stringID = srlatchgate,
+				outputs = 0001,
+				activateInputs = 0010,
+				resetInputs = 0100,
+				wireOutputs = 0001,
+				active = true
+			},
+			LOGICGATE = {
+				tileX = 32,
+				tileY = 17,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0001,
+				timerTicks = 115
+			},
+			LOGICGATE = {
+				tileX = 33,
+				tileY = 18,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 1001,
+				wireOutputs = 0100
+			},
+			LOGICGATE = {
+				tileX = 35,
+				tileY = 24,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 0101,
+				wireOutputs = 1000
+			},
+			LOGICGATE = {
+				tileX = 36,
+				tileY = 23,
+				stringID = norgate,
+				outputs = 0000,
+				wireInputs = 1001,
+				wireOutputs = 0100
+			},
+			LOGICGATE = {
+				tileX = 37,
+				tileY = 23,
+				stringID = timergate,
+				outputs = 0000,
+				wireInputs = 0100,
+				wireOutputs = 0010,
+				timerTicks = 24
+			},
+			LOGICGATE = {
+				tileX = 37,
+				tileY = 19,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 0100,
+				delayTicks = 12,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 43,
+				tileY = 18,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0001,
+				wireOutputs = 1000,
+				delayTicks = 60,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 43,
+				tileY = 22,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0001,
+				wireOutputs = 0100,
+				delayTicks = 60,
+				active = false
+			},
+			LOGICGATE = {
+				tileX = 44,
+				tileY = 19,
+				stringID = buffergate,
+				outputs = 0000,
+				wireInputs = 0010,
+				wireOutputs = 0100,
+				delayTicks = 12,
+				active = false
+			}
+		},
+		wire = eNpVjUEOwCAIBCHhARx8kE18OB68t0kfVJZitWNCmBWlMhEJB-J9Q9mcB5oKDjiZZ4WCMl0lUHdz-uaga7xv00fRF_zPMjL2RVitNh3lvk7jZKUL_kOkkieHPxcM_93vH_suEqk=,
+		tilesProtected = eNpjYGBkIAQAAEYAAg==,
+		lastWorldTime = 51088533,
+		tileTickX = 9,
+		tileTickY = 9,
+		isPirateVillageRegion = false
+	},
+	3x0 = {
+		biomeIDs = [0, unknown],
+		biomes = eNpjYKAMAAAAQAAB,
+		tileIDs = [8, stonefloor],
+		tiles = eNpj4GCgCAIAIEABAQ==,
+		tileIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		objectIDs = [0, air, 121, stonewall],
+		objects = eNpjqGSgCAIA5E8PIQ==,
+		objectRotations = eNpjYAABZmZmRmZGBjibkYGRgYmBiZmJEQACIwAl,
+		objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=,
+		tileObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wallDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		tableDecorObjects = {
+			objects = eNpjYKAMAAAAQAAB,
+			objectRotations = eNpjYMAPAAAgAAE=,
+			objectIsPlayerPlaced = eNpjYGBQYAACAACoACE=
+		},
+		wire = eNpjYMAEjFAIAgAARAAF,
+		tilesProtected = eNpjYGBQYAACAACoACE=,
+		lastWorldTime = 51088533,
+		tileTickX = 0,
+		tileTickY = 7,
+		isPirateVillageRegion = false
+	}
+}

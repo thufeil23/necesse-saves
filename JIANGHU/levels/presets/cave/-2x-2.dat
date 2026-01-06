@@ -1,0 +1,2317 @@
+{
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1493,
+		tileY = -1720
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1497,
+		tileY = -1734
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1433,
+		tileY = -1730
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1460,
+		tileY = -1748
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1429,
+		tileY = -1690
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1452,
+		tileY = -1653
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1372,
+		tileY = -1707
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1379,
+		tileY = -1740
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1360,
+		tileY = -1740
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1344,
+		tileY = -1733
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1388,
+		tileY = -1747
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1378,
+		tileY = -1735
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1389,
+		tileY = -1725
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1402,
+		tileY = -1688
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1400,
+		tileY = -1657
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1368,
+		tileY = -1634
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1382,
+		tileY = -1644
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1364,
+		tileY = -1630
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1399,
+		tileY = -1630
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1487,
+		tileY = -1687
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1460,
+		tileY = -1603
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1448,
+		tileY = -1583
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1485,
+		tileY = -1633
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1459,
+		tileY = -1622
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1461,
+		tileY = -1586
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1510,
+		tileY = -1651
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1510,
+		tileY = -1814
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1554,
+		tileY = -1827
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1519,
+		tileY = -1786
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1531,
+		tileY = -1818
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1503,
+		tileY = -1782
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1538,
+		tileY = -1821
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1477,
+		tileY = -1756
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1546,
+		tileY = -1811
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1515,
+		tileY = -1766
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1513,
+		tileY = -1796
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1482,
+		tileY = -1772
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1549,
+		tileY = -1791
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1371,
+		tileY = -1678
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1360,
+		tileY = -1678
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1432,
+		tileY = -1624
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1511,
+		tileY = -1751
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1420,
+		tileY = -1771
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1442,
+		tileY = -1789
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1459,
+		tileY = -1803
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1513,
+		tileY = -1724
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1520,
+		tileY = -1727
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1540,
+		tileY = -1736
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1412,
+		tileY = -1583
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1339,
+		tileY = -1549
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1383,
+		tileY = -1602
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1390,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1401,
+		tileY = -1610
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1333,
+		tileY = -1542
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1380,
+		tileY = -1563
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1357,
+		tileY = -1573
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1399,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1376,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1356,
+		tileY = -1547
+	},
+	PRESET = {
+		presetStringID = forestbearcave,
+		tileX = -1524,
+		tileY = -1602
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1534,
+		tileY = -1651
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1401,
+		tileY = -1799
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1534,
+		tileY = -1752
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1553,
+		tileY = -1754
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1551,
+		tileY = -1706
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1330,
+		tileY = -1705
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1357,
+		tileY = -1899
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1319,
+		tileY = -1859
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1413,
+		tileY = -1896
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1433,
+		tileY = -1855
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1360,
+		tileY = -1798
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1382,
+		tileY = -1917
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1363,
+		tileY = -1835
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1355,
+		tileY = -1860
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1429,
+		tileY = -1875
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1442,
+		tileY = -1843
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1389,
+		tileY = -1930
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1340,
+		tileY = -1877
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1348,
+		tileY = -1840
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1361,
+		tileY = -1882
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1318,
+		tileY = -1855
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1356,
+		tileY = -1894
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1362,
+		tileY = -1802
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1390,
+		tileY = -1905
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1417,
+		tileY = -1922
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1433,
+		tileY = -1853
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1342,
+		tileY = -1909
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1405,
+		tileY = -1920
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1407,
+		tileY = -1870
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1310,
+		tileY = -1841
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1392,
+		tileY = -1828
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1402,
+		tileY = -1831
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1582,
+		tileY = -1732
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1598,
+		tileY = -1706
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1668,
+		tileY = -1690
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1633,
+		tileY = -1686
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1603,
+		tileY = -1729
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1617,
+		tileY = -1724
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1623,
+		tileY = -1704
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1615,
+		tileY = -1674
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1591,
+		tileY = -1723
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1646,
+		tileY = -1699
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1623,
+		tileY = -1745
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1595,
+		tileY = -1757
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1579,
+		tileY = -1640
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1577,
+		tileY = -1651
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1501,
+		tileY = -1596
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1484,
+		tileY = -1577
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1579,
+		tileY = -1784
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1322,
+		tileY = -1659
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1465,
+		tileY = -1833
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1450,
+		tileY = -1906
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1480,
+		tileY = -1871
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1450,
+		tileY = -1898
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1475,
+		tileY = -1888
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1470,
+		tileY = -1856
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1568,
+		tileY = -1893
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1549,
+		tileY = -1862
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1638,
+		tileY = -1966
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1588,
+		tileY = -1943
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1642,
+		tileY = -1923
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1567,
+		tileY = -1899
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1628,
+		tileY = -1906
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1637,
+		tileY = -1926
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1569,
+		tileY = -1878
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1660,
+		tileY = -1959
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1615,
+		tileY = -1935
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1651,
+		tileY = -1910
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1572,
+		tileY = -1919
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1645,
+		tileY = -1976
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1647,
+		tileY = -1945
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1538,
+		tileY = -1957
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1522,
+		tileY = -1937
+	},
+	PRESET = {
+		presetStringID = forestbearcave,
+		tileX = -1526,
+		tileY = -1908
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1542,
+		tileY = -1988
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1520,
+		tileY = -1987
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1521,
+		tileY = -2007
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1526,
+		tileY = -2020
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1543,
+		tileY = -1897
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1512,
+		tileY = -1965
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1512,
+		tileY = -1883
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1539,
+		tileY = -1959
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1559,
+		tileY = -1968
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1606,
+		tileY = -1843
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1642,
+		tileY = -1855
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1620,
+		tileY = -1848
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1585,
+		tileY = -1834
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1595,
+		tileY = -1820
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1386,
+		tileY = -1865
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1602,
+		tileY = -1792
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1535,
+		tileY = -1565
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1536,
+		tileY = -1570
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1588,
+		tileY = -1603
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1642,
+		tileY = -1640
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1602,
+		tileY = -1647
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1586,
+		tileY = -1589
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1625,
+		tileY = -1613
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1627,
+		tileY = -1654
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1617,
+		tileY = -1636
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1602,
+		tileY = -1881
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1602,
+		tileY = -1875
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1642,
+		tileY = -1820
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1456,
+		tileY = -1925
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1495,
+		tileY = -1939
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1594,
+		tileY = -1915
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1638,
+		tileY = -1669
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1333,
+		tileY = -1614
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1285,
+		tileY = -1629
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1283,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1285,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1278,
+		tileY = -1569
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1306,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1304,
+		tileY = -1619
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1670,
+		tileY = -1729
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1664,
+		tileY = -1768
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1689,
+		tileY = -1763
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1692,
+		tileY = -1771
+	},
+	PRESET = {
+		presetStringID = plainsruneboundtribes,
+		tileX = -1282,
+		tileY = -1687
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1274,
+		tileY = -1668
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1450,
+		tileY = -1531
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1476,
+		tileY = -1521
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1438,
+		tileY = -1535
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1437,
+		tileY = -1517
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1459,
+		tileY = -1512
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1577,
+		tileY = -1569
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1598,
+		tileY = -1540
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1622,
+		tileY = -1549
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1616,
+		tileY = -1538
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1592,
+		tileY = -1530
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1525,
+		tileY = -1524
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1517,
+		tileY = -1507
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1307,
+		tileY = -1563
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1321,
+		tileY = -1523
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1247,
+		tileY = -1494
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1277,
+		tileY = -1496
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1284,
+		tileY = -1518
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1261,
+		tileY = -1509
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1276,
+		tileY = -1486
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1228,
+		tileY = -1673
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1245,
+		tileY = -1662
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1234,
+		tileY = -1572
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1614,
+		tileY = -1494
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1570,
+		tileY = -1484
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1585,
+		tileY = -1430
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1546,
+		tileY = -1474
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1411,
+		tileY = -1480
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1512,
+		tileY = -1451
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1473,
+		tileY = -1479
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1560,
+		tileY = -1486
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1487,
+		tileY = -1479
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1580,
+		tileY = -1476
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1570,
+		tileY = -1498
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1378,
+		tileY = -1481
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1547,
+		tileY = -1464
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1482,
+		tileY = -1462
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1621,
+		tileY = -1483
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1437,
+		tileY = -1470
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1638,
+		tileY = -1505
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1598,
+		tileY = -1511
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1386,
+		tileY = -1467
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1586,
+		tileY = -1487
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1571,
+		tileY = -1461
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1455,
+		tileY = -1468
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1517,
+		tileY = -1477
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1324,
+		tileY = -1499
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1257,
+		tileY = -1533
+	},
+	PRESET = {
+		presetStringID = plainsruneboundtribes,
+		tileX = -1227,
+		tileY = -1712
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1241,
+		tileY = -1794
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1223,
+		tileY = -1788
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1253,
+		tileY = -1703
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1203,
+		tileY = -1640
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1192,
+		tileY = -1630
+	},
+	PRESET = {
+		presetStringID = plainsbearcave,
+		tileX = -1198,
+		tileY = -1588
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1211,
+		tileY = -1593
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1193,
+		tileY = -1595
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1222,
+		tileY = -1543
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1621,
+		tileY = -1575
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1322,
+		tileY = -1318
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1366,
+		tileY = -1414
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1356,
+		tileY = -1318
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1422,
+		tileY = -1335
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1322,
+		tileY = -1374
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1361,
+		tileY = -1275
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1348,
+		tileY = -1339
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1399,
+		tileY = -1440
+	},
+	PRESET = {
+		presetStringID = forestbearcave,
+		tileX = -1333,
+		tileY = -1415
+	},
+	PRESET = {
+		presetStringID = forestbearcave,
+		tileX = -1437,
+		tileY = -1437
+	},
+	PRESET = {
+		presetStringID = desertamethystcrystals,
+		tileX = -1385,
+		tileY = -1246
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1358,
+		tileY = -1271
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1348,
+		tileY = -1297
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1320,
+		tileY = -1408
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1328,
+		tileY = -1310
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1390,
+		tileY = -1347
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1353,
+		tileY = -1248
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1428,
+		tileY = -1234
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1377,
+		tileY = -1343
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1392,
+		tileY = -1264
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1300,
+		tileY = -1393
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1337,
+		tileY = -1344
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1281,
+		tileY = -1394
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1348,
+		tileY = -1277
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1445,
+		tileY = -1449
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1390,
+		tileY = -1432
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1339,
+		tileY = -1332
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1384,
+		tileY = -1215
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1410,
+		tileY = -1228
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1405,
+		tileY = -1420
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1415,
+		tileY = -1346
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1304,
+		tileY = -1365
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1408,
+		tileY = -1332
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1419,
+		tileY = -1405
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1336,
+		tileY = -1273
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1418,
+		tileY = -1446
+	},
+	PRESET = {
+		presetStringID = desertcavelingoasis,
+		tileX = -1376,
+		tileY = -1234
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1462,
+		tileY = -1437
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1473,
+		tileY = -1438
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1651,
+		tileY = -1615
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1648,
+		tileY = -1621
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1681,
+		tileY = -1650
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1681,
+		tileY = -1625
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1671,
+		tileY = -1608
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1675,
+		tileY = -1515
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1678,
+		tileY = -1505
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1642,
+		tileY = -1469
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1623,
+		tileY = -1456
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1639,
+		tileY = -1436
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1707,
+		tileY = -1525
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1681,
+		tileY = -1471
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1684,
+		tileY = -1481
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1745,
+		tileY = -1571
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1761,
+		tileY = -1527
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1748,
+		tileY = -1553
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1790,
+		tileY = -1580
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1701,
+		tileY = -1676
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1717,
+		tileY = -1650
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1736,
+		tileY = -1604
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1826,
+		tileY = -1730
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1908,
+		tileY = -1654
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1787,
+		tileY = -1548
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1754,
+		tileY = -1619
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1907,
+		tileY = -1707
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1952,
+		tileY = -1766
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1815,
+		tileY = -1682
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1942,
+		tileY = -1816
+	},
+	PRESET = {
+		presetStringID = snowcaveiceopenings,
+		tileX = -1928,
+		tileY = -1756
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1914,
+		tileY = -1783
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1773,
+		tileY = -1696
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1853,
+		tileY = -1617
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1823,
+		tileY = -1625
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1861,
+		tileY = -1740
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1842,
+		tileY = -1704
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1706,
+		tileY = -1696
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1795,
+		tileY = -1654
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1881,
+		tileY = -1680
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1976,
+		tileY = -1810
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1965,
+		tileY = -1868
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1850,
+		tileY = -1656
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1950,
+		tileY = -1837
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1915,
+		tileY = -1681
+	},
+	PRESET = {
+		presetStringID = snowvampirecrypts,
+		tileX = -1725,
+		tileY = -1621
+	},
+	PRESET = {
+		presetStringID = snowvampirecrypts,
+		tileX = -1934,
+		tileY = -1659
+	},
+	PRESET = {
+		presetStringID = snowvampirecrypts,
+		tileX = -1886,
+		tileY = -1717
+	},
+	PRESET = {
+		presetStringID = snowvampirecrypts,
+		tileX = -1871,
+		tileY = -1769
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1823,
+		tileY = -1713
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1834,
+		tileY = -1689
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1928,
+		tileY = -1687
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1900,
+		tileY = -1672
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1929,
+		tileY = -1663
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1804,
+		tileY = -1665
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1714,
+		tileY = -1638
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1788,
+		tileY = -1617
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1741,
+		tileY = -1663
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1780,
+		tileY = -1645
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1915,
+		tileY = -1722
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1731,
+		tileY = -1657
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1944,
+		tileY = -1831
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1954,
+		tileY = -1879
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1723,
+		tileY = -1665
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1782,
+		tileY = -1601
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1842,
+		tileY = -1620
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1882,
+		tileY = -1677
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1905,
+		tileY = -1737
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1912,
+		tileY = -1803
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1777,
+		tileY = -1629
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1803,
+		tileY = -1683
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1851,
+		tileY = -1746
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1928,
+		tileY = -1789
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1910,
+		tileY = -1775
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1748,
+		tileY = -1674
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1855,
+		tileY = -1616
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1802,
+		tileY = -1655
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1852,
+		tileY = -1636
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1791,
+		tileY = -1654
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1708,
+		tileY = -1627
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1852,
+		tileY = -1691
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1812,
+		tileY = -1571
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1963,
+		tileY = -1821
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1829,
+		tileY = -1648
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1881,
+		tileY = -1783
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1822,
+		tileY = -1594
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1772,
+		tileY = -1670
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1695,
+		tileY = -1703
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1738,
+		tileY = -1692
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1895,
+		tileY = -1758
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1753,
+		tileY = -1696
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1750,
+		tileY = -1407
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1740,
+		tileY = -1454
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1783,
+		tileY = -1451
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1714,
+		tileY = -1468
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1775,
+		tileY = -1448
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1731,
+		tileY = -1452
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1766,
+		tileY = -1427
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1741,
+		tileY = -1427
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1727,
+		tileY = -1491
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1748,
+		tileY = -1492
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1757,
+		tileY = -1456
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1786,
+		tileY = -1457
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1736,
+		tileY = -1402
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1712,
+		tileY = -1484
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1561,
+		tileY = -1267
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1519,
+		tileY = -1321
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1551,
+		tileY = -1375
+	},
+	PRESET = {
+		presetStringID = forestspidernests,
+		tileX = -1444,
+		tileY = -1404
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1479,
+		tileY = -1388
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1477,
+		tileY = -1305
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1665,
+		tileY = -1287
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1560,
+		tileY = -1324
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1655,
+		tileY = -1319
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1540,
+		tileY = -1419
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1492,
+		tileY = -1278
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1495,
+		tileY = -1321
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1637,
+		tileY = -1289
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1592,
+		tileY = -1333
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1539,
+		tileY = -1304
+	},
+	PRESET = {
+		presetStringID = forestbearcave,
+		tileX = -1505,
+		tileY = -1401
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1474,
+		tileY = -1310
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1603,
+		tileY = -1336
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1536,
+		tileY = -1317
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1463,
+		tileY = -1328
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1562,
+		tileY = -1395
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1660,
+		tileY = -1304
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1571,
+		tileY = -1271
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1501,
+		tileY = -1427
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1661,
+		tileY = -1338
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1571,
+		tileY = -1332
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1490,
+		tileY = -1413
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1519,
+		tileY = -1297
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1481,
+		tileY = -1293
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1439,
+		tileY = -1407
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1522,
+		tileY = -1393
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1630,
+		tileY = -1315
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1619,
+		tileY = -1333
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1500,
+		tileY = -1307
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1568,
+		tileY = -1349
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1455,
+		tileY = -1399
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1585,
+		tileY = -1356
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1476,
+		tileY = -1417
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1530,
+		tileY = -1371
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1478,
+		tileY = -1374
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1590,
+		tileY = -1341
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1521,
+		tileY = -1351
+	},
+	PRESET = {
+		presetStringID = forestvampirecrypts,
+		tileX = -1692,
+		tileY = -1413
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1689,
+		tileY = -1412
+	},
+	PRESET = {
+		presetStringID = forestlootareas,
+		tileX = -1666,
+		tileY = -1421
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1306,
+		tileY = -1760
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1287,
+		tileY = -1753
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1322,
+		tileY = -1801
+	},
+	PRESET = {
+		presetStringID = plainsruneboundtribes,
+		tileX = -1269,
+		tileY = -1826
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1297,
+		tileY = -1806
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1296,
+		tileY = -1813
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1290,
+		tileY = -1785
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1322,
+		tileY = -1819
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1255,
+		tileY = -1754
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1308,
+		tileY = -1477
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1288,
+		tileY = -1459
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1289,
+		tileY = -1416
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1576,
+		tileY = -1391
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1632,
+		tileY = -1411
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1685,
+		tileY = -1430
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1356,
+		tileY = -1447
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1506,
+		tileY = -1370
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1433,
+		tileY = -1367
+	},
+	PRESET = {
+		presetStringID = forestsapphirecrystals,
+		tileX = -1401,
+		tileY = -1299
+	},
+	PRESET = {
+		presetStringID = desertamethystcrystals,
+		tileX = -1432,
+		tileY = -1278
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1439,
+		tileY = -1276
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1367,
+		tileY = -1368
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1472,
+		tileY = -1255
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1263,
+		tileY = -1467
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1505,
+		tileY = -1250
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1269,
+		tileY = -1348
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1281,
+		tileY = -1362
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1243,
+		tileY = -1433
+	},
+	PRESET = {
+		presetStringID = plainsruneboundtribes,
+		tileX = -1747,
+		tileY = -1760
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1784,
+		tileY = -1761
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1796,
+		tileY = -1772
+	},
+	PRESET = {
+		presetStringID = snowspidernests,
+		tileX = -1701,
+		tileY = -1854
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1681,
+		tileY = -1839
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1684,
+		tileY = -1865
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1760,
+		tileY = -1841
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1726,
+		tileY = -1840
+	},
+	PRESET = {
+		presetStringID = snowlootareas,
+		tileX = -1687,
+		tileY = -1821
+	},
+	PRESET = {
+		presetStringID = chestrooms,
+		tileX = -1801,
+		tileY = -1700
+	},
+	PRESET = {
+		presetStringID = caveruins,
+		tileX = -1768,
+		tileY = -1578
+	}
+}

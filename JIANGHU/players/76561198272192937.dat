@@ -1,0 +1,486 @@
+PLAYER = {
+	name = King BigDih,
+	characterUniqueID = -1941931221,
+	permissions = 0,
+	needAppearance = false,
+	team = 0,
+	pvp = false,
+	isDead = false,
+	MOB = {
+		uniqueID = 2,
+		dir = 0,
+		x = -46153.348,
+		y = -54249.58,
+		dx = 0.0,
+		dy = 0.0,
+		maxhealth = 100,
+		health = 85,
+		maxresilience = 0,
+		resilience = 0.0,
+		maxmana = 100,
+		mana = 100.0,
+		canDespawn = false,
+		lastCombatTime = 3790819,
+		lastManaSpentTime = 0,
+		isManaExhausted = false,
+		BUFFS = {
+		},
+		inventoryExtended = true,
+		creativeMenuExtended = true,
+		autoOpenDoors = true,
+		hotbarLocked = false,
+		hungerLevel = 0.72363126,
+		hasGodModeInCreative = true,
+		HEALTH_UPGRADES = {
+		},
+		LOOK = {
+			shirtColor = [127, 124, 162, 255],
+			shoesColor = [115, 89, 119, 255],
+			skin = 18,
+			hair = 21,
+			facialFeature = 0,
+			hairColor = 13,
+			eyeType = 0,
+			eyeColor = 0
+		},
+		INVENTORY = {
+			DRAG = {
+				size = 1
+			},
+			MAIN = {
+				size = 50,
+				ITEM = {
+					slot = 0,
+					stringID = woodaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = copperpickaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = goldsword,
+					amount = 1
+				},
+				ITEM = {
+					slot = 3,
+					stringID = woodbow,
+					amount = 1
+				},
+				ITEM = {
+					slot = 4,
+					stringID = heavyhammer,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = shoddy
+						}
+					}
+				},
+				ITEM = {
+					slot = 5,
+					stringID = torch,
+					amount = 51
+				},
+				ITEM = {
+					slot = 6,
+					stringID = icejavelin,
+					amount = 9
+				},
+				ITEM = {
+					slot = 7,
+					stringID = healthregenpotion,
+					amount = 4
+				},
+				ITEM = {
+					slot = 8,
+					stringID = frostshard,
+					amount = 4
+				},
+				ITEM = {
+					slot = 9,
+					stringID = brokencoppertool,
+					amount = 2,
+					GNDData = {
+						currentSprite = {
+							gndType = byte,
+							value = -18
+						}
+					}
+				},
+				ITEM = {
+					slot = 10,
+					stringID = copperbar,
+					amount = 8
+				},
+				ITEM = {
+					slot = 11,
+					stringID = minecart,
+					amount = 1
+				},
+				ITEM = {
+					slot = 12,
+					stringID = ironbomb,
+					amount = 6
+				},
+				ITEM = {
+					slot = 13,
+					stringID = recallscroll,
+					amount = 1
+				},
+				ITEM = {
+					slot = 14,
+					stringID = meadowmeanderingvinyl,
+					amount = 1
+				},
+				ITEM = {
+					slot = 15,
+					stringID = mysteriousportal,
+					amount = 1
+				},
+				ITEM = {
+					slot = 16,
+					stringID = mysteriousportal,
+					amount = 1
+				},
+				ITEM = {
+					slot = 17,
+					stringID = mysteriousportal,
+					amount = 1
+				},
+				ITEM = {
+					slot = 18,
+					stringID = mysteriousportal,
+					amount = 1
+				},
+				ITEM = {
+					slot = 19,
+					stringID = batwing,
+					amount = 22
+				},
+				ITEM = {
+					slot = 20,
+					stringID = goldbar,
+					amount = 2
+				},
+				ITEM = {
+					slot = 21,
+					stringID = coin,
+					amount = 2078
+				},
+				ITEM = {
+					slot = 22,
+					stringID = ironarrow,
+					amount = 48
+				},
+				ITEM = {
+					slot = 23,
+					stringID = craftingguide,
+					amount = 1
+				},
+				ITEM = {
+					slot = 27,
+					stringID = firearrow,
+					amount = 53
+				},
+				ITEM = {
+					slot = 28,
+					stringID = ninjastar,
+					amount = 51
+				},
+				ITEM = {
+					slot = 30,
+					stringID = manaregenpotion,
+					amount = 1
+				},
+				ITEM = {
+					slot = 32,
+					stringID = oaksapling,
+					amount = 3
+				},
+				ITEM = {
+					slot = 33,
+					stringID = brokenirontool,
+					amount = 3,
+					GNDData = {
+						currentSprite = {
+							gndType = byte,
+							value = -66
+						}
+					}
+				},
+				ITEM = {
+					slot = 35,
+					stringID = royalegg,
+					amount = 1
+				},
+				ITEM = {
+					slot = 36,
+					stringID = enchantingscroll,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = magical
+						}
+					}
+				},
+				ITEM = {
+					slot = 37,
+					stringID = musesvinyl,
+					amount = 1
+				},
+				ITEM = {
+					slot = 38,
+					stringID = stonearrow,
+					amount = 64
+				},
+				ITEM = {
+					slot = 39,
+					stringID = snowstone,
+					amount = 129
+				},
+				ITEM = {
+					slot = 40,
+					stringID = manapotion,
+					amount = 9
+				}
+			},
+			ARMOR = {
+				size = 3
+			},
+			COSMETIC = {
+				size = 3,
+				ITEM = {
+					slot = 1,
+					stringID = shirt,
+					amount = 1,
+					GNDData = {
+						112785 = {
+							gndType = byte,
+							value = 127
+						},
+						98619139 = {
+							gndType = byte,
+							value = 124
+						},
+						3027034 = {
+							gndType = byte,
+							value = -94
+						}
+					}
+				},
+				ITEM = {
+					slot = 2,
+					stringID = shoes,
+					amount = 1,
+					GNDData = {
+						112785 = {
+							gndType = byte,
+							value = 115
+						},
+						98619139 = {
+							gndType = byte,
+							value = 89
+						},
+						3027034 = {
+							gndType = byte,
+							value = 119
+						}
+					}
+				}
+			},
+			EQUIPMENT = {
+				size = 2,
+				ITEM = {
+					slot = 1,
+					stringID = leatherdashers,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = noenchant
+						}
+					}
+				}
+			},
+			TRINKETS = {
+				size = 4,
+				ITEM = {
+					slot = 2,
+					stringID = vampiresgift,
+					amount = 1,
+					GNDData = {
+						enchantment = {
+							gndType = itemenchant,
+							value = sturdy
+						}
+					}
+				}
+			},
+			selectedSet = 0,
+			CLOUD = {
+				size = 1
+			},
+			PARTY = {
+				size = 5
+			}
+		}
+	},
+	level = surface,
+	spawnLevel = surface,
+	spawnTile = [-1432, -1704],
+	adventureParty = {
+		buffPotionPolicy = IN_COMBAT
+	},
+	hasNewJournalEntry = true,
+	quests = [-380696478],
+	trackedQuests = [-380696478],
+	DEATHS = {
+		death = {
+			time = 1980,
+			level = cave,
+			x = -45125,
+			y = -53780
+		},
+		death = {
+			time = 2339,
+			level = cave,
+			x = -44795,
+			y = -51385
+		},
+		death = {
+			time = 3200,
+			level = cave,
+			x = -48018,
+			y = -51131
+		}
+	},
+	STATS = {
+		time_played = {
+			value = 3486
+		},
+		distance_ran = {
+			value = 199241
+		},
+		damage_dealt = {
+			value = 10620
+		},
+		damage_taken = {
+			value = 1171
+		},
+		deaths = {
+			value = 3
+		},
+		objects_mined = {
+			value = 321
+		},
+		objects_placed = {
+			value = 55
+		},
+		tiles_placed = {
+			value = 13
+		},
+		items_enchanted = {
+			value = 1
+		},
+		ladders_used = {
+			value = 17
+		},
+		doors_used = {
+			value = 88
+		},
+		plates_triggered = {
+			value = 2
+		},
+		crafted_items = {
+			value = 10
+		},
+		crates_broken = {
+			value = 49
+		},
+		type_damage_dealt = {
+			normal = 749,
+			ranged = 2219,
+			melee = 7453
+		},
+		trinkets_worn = {
+			trinkets = [leatherdashers, vampiresgift]
+		},
+		biomes_known = {
+			visitedBiomes = [forest, snow]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = [forestcave, snowcave, forestsurface]
+		},
+		items_obtained = {
+			items = [leatherdashers, royalegg, woodsword, wormbait, cavewatergrass, rabbitleg, firearrow, woodarrowtrap, copperore, goldbar, musesvinyl, heavyhammer, copperpickaxe, vampiresgift, snowstone, ironarrow, recallscroll, goldore, rocktile, stonearrow, minecart, icejavelin, oaklog, manapotion, brokencoppertool, stonewall, roastedrabbitleg, coin, stonepressureplate, ninjastar, steak, woodbow, manaregenpotion, sprucesapling, clay, meadowmeanderingvinyl, sprucelog, woodpickaxe, woodwall, craftingguide, frostshard, wheat, ironore, goldsword, bread, ironbomb, batwing, wheatseed, healthregenpotion, torch, mapfragment, oaksapling, copperbar, shoes, lantern, ironanvil, stone, shirt, healthpotion, grassseed, brokenirontool, woodaxe, mysteriousportal, enchantingscroll, stonefloor]
+		},
+		mob_kills = {
+			trenchcoatgoblinstacked = 3,
+			trenchcoatgoblinhelmet = 3,
+			stonecaveling = 2,
+			crawlingzombie = 4,
+			cropplerbeet = 1,
+			frozendwarf = 3,
+			mouse = 5,
+			squirrel = 2,
+			trenchcoatgoblinchestplate = 2,
+			rabbit = 1,
+			vampire = 6,
+			zombie = 75,
+			trapperzombie = 12,
+			frostsentry = 2,
+			goblin = 13,
+			zombiearcher = 15,
+			trenchcoatgoblinshoes = 3,
+			spider = 7
+		},
+		food_consumed = {
+			bread = 2,
+			rabbitleg = 1,
+			steak = 4,
+			roastedrabbitleg = 2
+		},
+		potions_consumed = {
+			healthpotion = 6,
+			healthregenpotion = 1
+		},
+		challenges_completed = {
+			completedchallenges = [defeatcaveling]
+		},
+		challenges_data = {
+			gndData = {
+				impalejavelinsMobs = {
+					gndType = intarraylist,
+					value = [-1116142362]
+				},
+				impalejavelinsHits-1116142362 = {
+					gndType = longarraylist,
+					value = [3472383,3473336]
+				},
+				killzombiesKills = {
+					gndType = int,
+					value = 1
+				}
+			}
+		}
+	},
+	NEWSTATS = {
+		trinkets_worn = {
+			trinkets = [leatherdashers, vampiresgift]
+		},
+		biomes_known = {
+			visitedBiomes = []
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = []
+		},
+		items_obtained = {
+			items = [leatherdashers, royalegg, woodsword, wormbait, cavewatergrass, rabbitleg, firearrow, woodarrowtrap, copperore, goldbar, musesvinyl, heavyhammer, copperpickaxe, vampiresgift, snowstone, ironarrow, recallscroll, goldore, rocktile, stonearrow, minecart, icejavelin, oaklog, manapotion, brokencoppertool, stonewall, roastedrabbitleg, coin, stonepressureplate, ninjastar, steak, woodbow, manaregenpotion, sprucesapling, clay, meadowmeanderingvinyl, sprucelog, woodpickaxe, woodwall, craftingguide, frostshard, wheat, ironore, goldsword, bread, ironbomb, batwing, wheatseed, healthregenpotion, torch, mapfragment, oaksapling, copperbar, shoes, lantern, ironanvil, stone, shirt, healthpotion, grassseed, brokenirontool, woodaxe, mysteriousportal, enchantingscroll, stonefloor]
+		}
+	}
+}

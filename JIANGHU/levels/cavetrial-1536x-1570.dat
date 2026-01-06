@@ -1,0 +1,52 @@
+LEVEL = {
+	gameVersion = 1.1.1,
+	stringID = trialroom,
+	identifier = cavetrial-1536x-1570,
+	width = 50,
+	height = 50,
+	MODS = {
+	},
+	isCave = true,
+	lastWorldTime = 8827195,
+	biome = trialroom,
+	isProtected = true,
+	fallbackIdentifier = cave,
+	fallbackTilePos = [-1536, -1570],
+	isRaining = false,
+	rainTimer = 0,
+	GNDData = {
+	},
+	LEVELDATA = {
+	},
+	EVENTS = {
+	},
+	STATS = {
+		time_played = {
+			value = 320
+		},
+		distance_ran = {
+			value = 17946
+		},
+		damage_taken = {
+			value = 444
+		},
+		objects_mined = {
+			value = 12
+		},
+		plates_triggered = {
+			value = 347
+		},
+		biomes_known = {
+			visitedBiomes = [trialroom]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = []
+		},
+		items_obtained = {
+			items = [fireresistancepotion, cabbage, woodsword, roastingstation, beef, wormbait, ironbar, sapphiregravel, woodfence, copperchestplate, fishingpotion, tikitorch, partyhat, woodarrowtrap, woodshovel, cavespidergland, sapphire, snowstonewall, coppersword, frostboots, forestpathvinyl, snowstone, ironarrow, leather, icejavelin, oaklog, sprucechest, manapotion, brokencoppertool, waterlantern, wooddoor, pinedisplay, goldbow, woodbow, leatherboots, frostchestplate, sprucesapling, clay, snowstonepressureplate, goldshovel, sprucelog, woodpickaxe, woodwall, oakcabinet, beetseed, stonefence, wheat, villagemap, ironore, yellowflowerpatch, magicbranch, dungeonmap, bread, sunflowerseed, torch, mapfragment, shoes, sunflower, ironanvil, sprucebed, dynamitestick, shirt, firemoneseed, candle, cartographertable, trapperhat, cabbageseed, firemone, settlementflag, wool, royalegg, alchemytable, speedpotion, rabbitleg, cavewatergrass, firearrow, sprucecandelabra, copperore, goldbar, blueberry, icearrowtrap, icedoor, workstationduo, copperpickaxe, paintinglargecastle, goldhelmet, recallscroll, goldore, rocktile, stonearrow, forge, attackspeedpotion, stonewall, nunchucks, coin, stonepressureplate, pinedoublebed, ninjastar, steak, zephyrcharm, manaregenpotion, goldpickaxe, oakchest, snowstonebrickfloor, glowcoral, craftingguide, rapidpotion, frostshard, ironbomb, batwing, resistancepotion, copperstreetlamp, oaksapling, copperbar, shinebelt, stone, icewall, healthpotion, grassseed, flowerpot, storagebox, brokenirontool, woodaxe, mysteriousportal, snowstonedoor, enchantingscroll]
+		},
+		potions_consumed = {
+			healthpotion = 5
+		}
+	}
+}

@@ -1,0 +1,379 @@
+PLAYER = {
+	name = Bobby,
+	characterUniqueID = 423248318,
+	permissions = 0,
+	needAppearance = false,
+	team = 0,
+	pvp = false,
+	isDead = false,
+	MOB = {
+		uniqueID = 2,
+		dir = 2,
+		x = -46162.85,
+		y = -53917.184,
+		dx = 0.0,
+		dy = 0.0,
+		maxhealth = 100,
+		health = 100,
+		maxresilience = 0,
+		resilience = 0.0,
+		maxmana = 100,
+		mana = 100.0,
+		canDespawn = false,
+		lastCombatTime = 21552081,
+		lastManaSpentTime = 0,
+		isManaExhausted = false,
+		BUFFS = {
+		},
+		inventoryExtended = false,
+		creativeMenuExtended = true,
+		autoOpenDoors = true,
+		hotbarLocked = false,
+		hungerLevel = 0.67555207,
+		hasGodModeInCreative = true,
+		HEALTH_UPGRADES = {
+		},
+		LOOK = {
+			shirtColor = [225, 225, 225, 255],
+			shoesColor = [74, 78, 82, 255],
+			skin = 0,
+			hair = 9,
+			facialFeature = 6,
+			hairColor = 2,
+			eyeType = 3,
+			eyeColor = 2
+		},
+		INVENTORY = {
+			DRAG = {
+				size = 1
+			},
+			MAIN = {
+				size = 50,
+				ITEM = {
+					slot = 0,
+					stringID = frostsword,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = frostspear,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = frostaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 3,
+					stringID = frostpickaxe,
+					amount = 1
+				},
+				ITEM = {
+					slot = 4,
+					stringID = sprucelog,
+					amount = 12
+				},
+				ITEM = {
+					slot = 6,
+					stringID = firearrow,
+					amount = 9
+				},
+				ITEM = {
+					slot = 7,
+					stringID = binoculars,
+					amount = 1
+				},
+				ITEM = {
+					slot = 8,
+					stringID = recallscroll,
+					amount = 2
+				},
+				ITEM = {
+					slot = 9,
+					stringID = donut,
+					amount = 2,
+					GNDData = {
+						spoilTime = {
+							gndType = long,
+							value = 35724975
+						},
+						spoilModifier = {
+							gndType = float,
+							value = 1.0
+						}
+					}
+				},
+				ITEM = {
+					slot = 10,
+					stringID = healthpotion,
+					amount = 16
+				},
+				ITEM = {
+					slot = 11,
+					stringID = sprucesapling,
+					amount = 2
+				},
+				ITEM = {
+					slot = 12,
+					stringID = partyhat,
+					amount = 1
+				},
+				ITEM = {
+					slot = 13,
+					stringID = oaklog,
+					amount = 43
+				},
+				ITEM = {
+					slot = 14,
+					stringID = wormbait,
+					amount = 2
+				},
+				ITEM = {
+					slot = 31,
+					stringID = torch,
+					amount = 90
+				},
+				ITEM = {
+					slot = 32,
+					stringID = woodboat,
+					amount = 1
+				},
+				ITEM = {
+					slot = 34,
+					stringID = iceblossomseed,
+					amount = 30
+				},
+				ITEM = {
+					slot = 44,
+					stringID = farmland,
+					amount = 4
+				},
+				ITEM = {
+					slot = 49,
+					stringID = roastedrabbitleg,
+					amount = 6,
+					GNDData = {
+						spoilTime = {
+							gndType = long,
+							value = 35820241
+						},
+						spoilModifier = {
+							gndType = float,
+							value = 1.0
+						}
+					}
+				}
+			},
+			ARMOR = {
+				size = 3,
+				ITEM = {
+					slot = 0,
+					stringID = frosthelmet,
+					amount = 1
+				},
+				ITEM = {
+					slot = 1,
+					stringID = frostchestplate,
+					amount = 1
+				},
+				ITEM = {
+					slot = 2,
+					stringID = frostboots,
+					amount = 1
+				}
+			},
+			COSMETIC = {
+				size = 3
+			},
+			EQUIPMENT = {
+				size = 2,
+				ITEM = {
+					slot = 1,
+					stringID = hardenedshield,
+					amount = 1
+				}
+			},
+			TRINKETS = {
+				size = 4
+			},
+			selectedSet = 0,
+			CLOUD = {
+				size = 1
+			},
+			PARTY = {
+				size = 5
+			}
+		}
+	},
+	level = surface,
+	spawnLevel = surface,
+	spawnTile = [-1432, -1704],
+	adventureParty = {
+		buffPotionPolicy = IN_COMBAT
+	},
+	hasNewJournalEntry = true,
+	quests = [],
+	trackedQuests = [],
+	DEATHS = {
+		death = {
+			time = 7929,
+			level = cave,
+			x = -43855,
+			y = -53749
+		},
+		death = {
+			time = 8068,
+			level = cave,
+			x = -43992,
+			y = -55669
+		},
+		death = {
+			time = 11856,
+			level = cave,
+			x = -43352,
+			y = -45569
+		}
+	},
+	STATS = {
+		time_played = {
+			value = 13105
+		},
+		distance_ran = {
+			value = 912346
+		},
+		distance_ridden = {
+			value = 45994
+		},
+		damage_dealt = {
+			value = 74643
+		},
+		damage_taken = {
+			value = 4448
+		},
+		deaths = {
+			value = 11
+		},
+		objects_mined = {
+			value = 2257
+		},
+		objects_placed = {
+			value = 395
+		},
+		tiles_placed = {
+			value = 6
+		},
+		ladders_used = {
+			value = 18
+		},
+		doors_used = {
+			value = 495
+		},
+		plates_triggered = {
+			value = 51
+		},
+		levers_flicked = {
+			value = 1
+		},
+		crafted_items = {
+			value = 96
+		},
+		crates_broken = {
+			value = 206
+		},
+		type_damage_dealt = {
+			normal = 5620,
+			melee = 68521
+		},
+		set_bonuses_worn = {
+			sets = [frostsetbonus, ironsetbonus]
+		},
+		trinkets_worn = {
+			trinkets = [hardenedshield]
+		},
+		biomes_known = {
+			visitedBiomes = [forest, trialroom, snow, plains]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = [plainssurface, snowcave, forestcave, forestsurface, snowsurface, plainscave]
+		},
+		items_obtained = {
+			items = [goldspear, ironaxe, fireresistancepotion, frosthelmet, woodsword, awakeningtwilightvinyl, roastingstation, beef, wormbait, ironbar, sapphiregravel, sprucedoublebed, woodfence, fishingpotion, hardboiledegg, iceblossom, partyhat, woodarrowtrap, beet, hardenedshield, sapphire, cavespidergland, ironchestplate, cookingpot, raspberry, heavyhammer, sugarbeet, frostboots, accuracypotion, snowstone, ironarrow, leather, tomatoseed, carpentersbench, icejavelin, oaklog, manapotion, brokencoppertool, tnt, roastedrabbitleg, wooddoor, leatherboots, frostchestplate, sprucesapling, clay, sharkscales, sprucelog, woodpickaxe, woodwall, oakcabinet, rawmutton, ironhelmet, beetseed, stonefence, ironore, yellowflowerpatch, barrel, dungeonmap, raspberryjuice, binoculars, healthregenpotion, sunflowerseed, torch, mapfragment, shoes, ironanvil, sunflower, sprucebed, homevinyl, shirt, battlepotion, firemoneseed, plainsgrassseed, cod, trapperhat, cabbageseed, stonefloor, firemone, copperpitchfork, ironboots, sugarbeetseed, wool, royalegg, corn, sign, iceblossomseed, alchemytable, speedpotion, farmland, frostarrow, rabbitleg, cavewatergrass, donut, firearrow, campfire, copperore, piratebandana, goldbar, blueberry, workstationduo, oillantern, salmon, cornseed, goldore, recallscroll, rocktile, duckbreast, stonearrow, forge, bouncingarrow, thornspotion, attackspeedpotion, stonewall, dogplush, nunchucks, coin, stonepressureplate, frostpickaxe, blueberrysapling, tuna, ninjastar, steak, manaregenpotion, amethyst, oakchest, sharktooth, clothscraps, frostspear, pinesapling, honey, glowcoral, craftingguide, rapidpotion, frostshard, stonearrowtrap, woodshield, ironbomb, batwing, resistancepotion, knockbackpotion, oaksapling, copperbar, fertilizer, stone, apiary, woodfencegate, pinelog, frostsword, healthpotion, woodboat, grassseed, frostaxe, storagebox, brokenirontool, woodaxe, mysteriousportal, enchantingscroll, raspberrysapling, ironpickaxe, roastedfish, roastedmutton]
+		},
+		mob_kills = {
+			trenchcoatgoblinstacked = 9,
+			runeboundbrute = 3,
+			runeboundshaman = 9,
+			cavemole = 3,
+			cow = 29,
+			frozendwarf = 50,
+			mouse = 13,
+			snowhare = 2,
+			trenchcoatgoblinchestplate = 9,
+			duck = 3,
+			rabbit = 2,
+			vampire = 42,
+			zombie = 373,
+			frostsentry = 4,
+			goblin = 66,
+			zombiearcher = 114,
+			sheep = 15,
+			giantcavespider = 10,
+			ram = 2,
+			shark = 8,
+			trenchcoatgoblinhelmet = 9,
+			stonecaveling = 4,
+			crawlingzombie = 18,
+			grizzlybear = 1,
+			cropplerbeet = 3,
+			squirrel = 2,
+			runeboundtrapper = 3,
+			trapperzombie = 49,
+			trenchcoatgoblinshoes = 9,
+			snowstonecaveling = 3,
+			bull = 4,
+			spider = 28,
+			blackcavespider = 3,
+			penguin = 1
+		},
+		food_consumed = {
+			blueberry = 8,
+			steak = 8,
+			donut = 1,
+			roastedfish = 14,
+			roastedmutton = 3
+		},
+		potions_consumed = {
+			healthpotion = 37,
+			knockbackpotion = 1
+		},
+		challenges_completed = {
+			completedchallenges = [beatabear, impalejavelins, equipfrostset, killzombies, defeatcaveling]
+		},
+		challenges_data = {
+			gndData = {
+				-520615507 = {
+					gndType = int,
+					value = 1
+				}
+			}
+		}
+	},
+	NEWSTATS = {
+		set_bonuses_worn = {
+			sets = [frostsetbonus, ironsetbonus]
+		},
+		trinkets_worn = {
+			trinkets = [hardenedshield]
+		},
+		biomes_known = {
+			visitedBiomes = []
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = []
+		},
+		items_obtained = {
+			items = [goldspear, ironaxe, frosthelmet, awakeningtwilightvinyl, wormbait, woodfence, fishingpotion, iceblossom, partyhat, woodarrowtrap, beet, hardenedshield, ironchestplate, sapphire, cavespidergland, heavyhammer, frostboots, sugarbeet, accuracypotion, snowstone, ironarrow, leather, tomatoseed, icejavelin, manapotion, oaklog, brokencoppertool, roastedrabbitleg, frostchestplate, sprucesapling, clay, sharkscales, sprucelog, woodwall, ironhelmet, rawmutton, beetseed, ironore, raspberryjuice, binoculars, healthregenpotion, torch, mapfragment, homevinyl, battlepotion, firemoneseed, cod, trapperhat, firemone, ironboots, sugarbeetseed, wool, corn, iceblossomseed, alchemytable, speedpotion, farmland, frostarrow, rabbitleg, donut, firearrow, copperore, goldbar, blueberry, salmon, cornseed, recallscroll, goldore, stonearrow, bouncingarrow, thornspotion, attackspeedpotion, stonewall, coin, stonepressureplate, frostpickaxe, blueberrysapling, tuna, ninjastar, steak, manaregenpotion, sharktooth, clothscraps, frostspear, pinesapling, honey, glowcoral, frostshard, stonearrowtrap, woodshield, ironbomb, batwing, resistancepotion, knockbackpotion, copperbar, oaksapling, stone, woodfencegate, pinelog, frostsword, woodboat, healthpotion, grassseed, frostaxe, storagebox, brokenirontool, mysteriousportal, enchantingscroll, ironpickaxe, roastedfish]
+		}
+	}
+}

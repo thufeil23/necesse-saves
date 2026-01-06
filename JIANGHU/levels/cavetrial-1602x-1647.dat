@@ -1,0 +1,60 @@
+LEVEL = {
+	gameVersion = 1.1.1,
+	stringID = trialroom,
+	identifier = cavetrial-1602x-1647,
+	width = 50,
+	height = 50,
+	MODS = {
+	},
+	isCave = true,
+	lastWorldTime = 27297905,
+	biome = trialroom,
+	isProtected = true,
+	fallbackIdentifier = cave,
+	fallbackTilePos = [-1602, -1647],
+	isRaining = false,
+	rainTimer = 0,
+	GNDData = {
+	},
+	LEVELDATA = {
+	},
+	EVENTS = {
+	},
+	STATS = {
+		time_played = {
+			value = 240
+		},
+		distance_ran = {
+			value = 16025
+		},
+		damage_taken = {
+			value = 386
+		},
+		deaths = {
+			value = 2
+		},
+		objects_mined = {
+			value = 70
+		},
+		plates_triggered = {
+			value = 374
+		},
+		biomes_known = {
+			visitedBiomes = [trialroom]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = []
+		},
+		items_obtained = {
+			items = [egg, sprucechair, beef, mackerel, maplesapling, maplelog, beet, mushroom, sapphire, frostboots, snowstone, tomatoseed, dungeondesk, dungeoncabinet, icejavelin, horsecostumeboots, manapotion, sprucechest, sharkmask, dungeonbench, tomato, dungeonchair, clay, sharkscales, rawmutton, beetseed, birchlog, wheat, ironore, villagemap, dungeonmap, sprucemodulartable, shoes, sunflower, dynamitestick, gobfish, battlepotion, trapperhat, cabbageseed, firemone, ironboots, goldaxe, dungeonchest, horsecostumeshirt, trout, alchemytable, farmland, frostarrow, firearrow, herring, sprucecandelabra, sharkcostumeshirt, redflowerpatch, piratebandana, queenbee, blueberry, oillantern, vampiresgift, cornseed, recallscroll, goldore, auroratundravinyl, frostbow, dungeonmodulartable, thornspotion, simplebullet, attackspeedpotion, overgrowngrassseed, horsemask, dungeonbookshelf, coin, stonepressureplate, frostpickaxe, blueberrysapling, zephyrcharm, rope, book, zephyrboots, goldpickaxe, apple, sharktooth, honey, grizzlycub, frogcostumeshirt, ironbomb, knockbackpotion, copperstreetlamp, copperbar, shinebelt, stone, cavelingsfoot, healthpotion, grassseed, calmingrose, mysteriousportal, depthsoftheforestvinyl, enchantingscroll, raspberrysapling, roastedfish, fireresistancepotion, dungeoncandelabra, cabbage, spoiledfood, noblehorseshoe, wormbait, stonepathtile, voidspear, oakbookshelf, ironbar, sprucebookshelf, voidshard, woodfence, iceblossom, partyhat, flour, frogmask, woodarrowtrap, cavespidergland, snowstonewall, ironchestplate, raspberry, dungeondisplay, heavyhammer, sugarbeet, ironarrow, leather, carp, minecart, oaklog, brokencoppertool, handgun, tnt, airlockfailurevinyl, wooddoor, goldbow, frostchestplate, sprucesapling, goldshovel, sprucelog, woodwall, yellowflowerpatch, barrel, constructionhammer, healthregenpotion, sunflowerseed, torch, swampgrassseed, mapfragment, lantern, grainmill, shirt, firemoneseed, cod, frogleg, stonecolumn, sugarbeetseed, furfish, royalegg, dungeonbed, corn, minecarttrack, iceblossomseed, speedpotion, bloodbolt, dungeondoublebed, dungeonclock, rabbitleg, goldglaive, stonedoor, goldbar, copperore, pinechest, salmon, dungeondresser, goldhelmet, dungeonvoidtrap, duckbreast, stonearrow, bouncingarrow, stonewall, nunchucks, sharkcostumeboots, tuna, ninjastar, steak, halffish, snowstonearrowtrap, spruceclock, manaregenpotion, frosthood, oakchest, dungeonpressureplate, meadowmeanderingvinyl, frostspear, rapidpotion, frostshard, firechalice, batwing, resistancepotion, wheatseed, fins, dungeonwall, birchsapling, oaksapling, fertilizer, woodfencegate, apiary, frogcostumeboots, waterfaevinyl, frostaxe, storagebox, brokenirontool, oakbed, ironpickaxe]
+		},
+		food_consumed = {
+			roastedfish = 2
+		},
+		potions_consumed = {
+			fireresistancepotion = 1,
+			healthpotion = 2,
+			resistancepotion = 1
+		}
+	}
+}

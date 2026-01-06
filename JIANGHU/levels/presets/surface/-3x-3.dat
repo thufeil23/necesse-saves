@@ -1,0 +1,7 @@
+{
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -2057,
+		tileY = -2872
+	}
+}

@@ -1,0 +1,319 @@
+WORLD = {
+	uniqueID = 4518496009011233699,
+	gameVersion = 1.1.1,
+	worldSeed = sunflowers,
+	worldTime = 51330431,
+	worldTimeMod = 1.0,
+	time = 48897201,
+	timeMod = 1.0,
+	spawnLevel = surface,
+	defaultSpawnTile = [-1432, -1704],
+	spawnTile = [-1432, -1704],
+	MODS = {
+	},
+	EVENTS = {
+	},
+	WORLDDATA = {
+		settlements = {
+			stringID = settlements,
+			SETTLEMENTS = {
+				SETTLEMENT = {
+					levelIdentifier = surface,
+					uniqueID = 817572458,
+					tileX = -1446,
+					tileY = -1699,
+					flagTier = 0,
+					name = {
+						stringID = static,
+						message = Nameless
+					},
+					ownerAuth = 76561198374940243,
+					teamID = 0
+				}
+			}
+		}
+	},
+	TEAMS = {
+		TEAM = {
+			teamID = 0,
+			name = Newties\'s team,
+			owner = 76561198140761466,
+			isPublic = true,
+			members = [76561198374940243, 76561198288000817, 76561198140761466, 76561198272192937]
+		}
+	},
+	QUESTS = {
+		QUEST = {
+			stringID = killmobssettlement,
+			uniqueID = -260797622,
+			clients = [76561198374940243],
+			objective = {
+				mobStringID = evilsprotector,
+				mobsToKill = 1,
+				currentKills = 0
+			},
+			settlementName = {
+				stringID = local,
+				category = settlement,
+				key = defname,
+				REPLACES = {
+					{
+						key = biome,
+						replace = {
+							stringID = local,
+							category = biome,
+							key = forest
+						}
+					}
+				}
+			},
+			questTier = evilsprotector
+		},
+		QUEST = {
+			stringID = killmobssettlement,
+			uniqueID = -96292899,
+			clients = [76561198140761466],
+			objective = {
+				mobStringID = evilsprotector,
+				mobsToKill = 1,
+				currentKills = 0
+			},
+			settlementName = {
+				stringID = local,
+				category = settlement,
+				key = defname,
+				REPLACES = {
+					{
+						key = biome,
+						replace = {
+							stringID = local,
+							category = biome,
+							key = forest
+						}
+					}
+				}
+			},
+			questTier = evilsprotector
+		},
+		QUEST = {
+			stringID = killmobssettlement,
+			uniqueID = -951433433,
+			clients = [],
+			objective = {
+				mobStringID = evilsprotector,
+				mobsToKill = 1,
+				currentKills = 0
+			},
+			settlementName = {
+				stringID = static,
+				message = mihouse
+			},
+			questTier = evilsprotector
+		},
+		QUEST = {
+			stringID = killmobssettlement,
+			uniqueID = -380696478,
+			clients = [76561198272192937],
+			objective = {
+				mobStringID = evilsprotector,
+				mobsToKill = 1,
+				currentKills = 0
+			},
+			settlementName = {
+				stringID = static,
+				message = mihouse
+			},
+			questTier = evilsprotector
+		}
+	},
+	STATS = {
+		time_played = {
+			value = 90091
+		},
+		distance_ran = {
+			value = 4710090
+		},
+		distance_ridden = {
+			value = 115137
+		},
+		damage_dealt = {
+			value = 302900
+		},
+		damage_taken = {
+			value = 18539
+		},
+		deaths = {
+			value = 46
+		},
+		objects_mined = {
+			value = 14662
+		},
+		objects_placed = {
+			value = 2898
+		},
+		tiles_mined = {
+			value = 246
+		},
+		tiles_placed = {
+			value = 856
+		},
+		money_earned = {
+			value = 172
+		},
+		items_sold = {
+			value = 6
+		},
+		money_spent = {
+			value = 4728
+		},
+		items_bought = {
+			value = 12
+		},
+		items_enchanted = {
+			value = 4
+		},
+		ladders_used = {
+			value = 99
+		},
+		doors_used = {
+			value = 5768
+		},
+		plates_triggered = {
+			value = 906
+		},
+		levers_flicked = {
+			value = 9
+		},
+		crafted_items = {
+			value = 2616
+		},
+		crates_broken = {
+			value = 523
+		},
+		type_damage_dealt = {
+			ranged = 99328,
+			normal = 32844,
+			summon = 30160,
+			melee = 123347,
+			magic = 15013
+		},
+		set_bonuses_worn = {
+			sets = [glacialcircletsetbonus, frostsetbonus, goldcrownsetbonus, frosthoodsetbonus, ironsetbonus]
+		},
+		trinkets_worn = {
+			trinkets = [leatherdashers, constructionhammer, zephyrcharm, frozenheart, hysteriatablet, noblehorseshoe, lifependant, frozensoul, balancedfrostfirefoci, vampiresgift, blinkscepter, shinebelt, frenzyorb, zephyrboots, cavelingsfoot, mesmertablet, calmingrose, hardenedshield, spikedbatboots]
+		},
+		biomes_known = {
+			visitedBiomes = [forest, trialroom, snow, plains, desert, swamp, dungeon]
+		},
+		discovered_journal_entries = {
+			discoveredJournalEntries = [plainssurface, forestcave, snowsurface, snowcave, forestsurface, swampsurface, plainscave, desertsurface, dungeon]
+		},
+		items_obtained = {
+			items = [egg, sprucechair, woodsword, beef, mackerel, maplesapling, maplelog, copperchestplate, beet, pinedresser, musesvinyl, coppersword, lifependant, milk, glacialcirclet, tilebomb, tomatoseed, bucket, depthscatcher, carpentersbench, horsecostumeboots, sprucechest, dungeonflametrap, pottedflower2, pottedflower4, tomato, glassbottle, swamplarva, snowstonepressureplate, beetseed, birchlog, bannerofsummonspeed, wheat, villagemap, raspberryjuice, treasurepotion, dungeondinnertable, shoes, antiquebow, sunflower, dynamitestick, battlepotion, coolingbox, heartcarpet, trapperhat, firemone, ironboots, voidbag, farmland, glacialgreatsword, firearrow, sharkcostumeshirt, redflowerpatch, queenbee, druidsgreatbow, icearrowtrap, oillantern, vampiresgift, sapphirestaff, auroratundravinyl, thornspotion, glacialchestplate, overgrowngrassseed, dungeonbookshelf, ancientfossilchestplate, frostpickaxe, zephyrcharm, rope, oakclock, bannerofdefense, zephyrboots, coinpouch, goldpickaxe, froststaff, grizzlycub, frogcostumeshirt, goldboots, copperstreetlamp, caveglow, flowerpot, calmingrose, enchantingscroll, roastedmutton, fireresistancepotion, popcorn, miningpotion, greaterspeedpotion, glacialboots, toolextender, wormbait, oakdresser, ironbar, oakbookshelf, sprucedoublebed, sprucebookshelf, fishingpotion, iceblossom, tikitorch, hardboiledegg, flour, frogmask, woodarrowtrap, hardenedshield, goldgreatbow, frostbullet, cavespidergland, ironchestplate, forestpathvinyl, oaklog, voidbullet, tnt, waterlantern, oakdisplay, greaterattackspeedpotion, goldbow, woodbow, antiquesword, sprucesapling, woodpickaxe, cryoquake, woodwall, voidcaller, stonefence, yellowflowerpatch, bread, torch, stonetiledfloor, swampgrassseed, lantern, grainmill, homevinyl, candle, cod, cartographertable, stonefloor, stonecolumn, sugarbeetseed, royalegg, dungeonbed, minecarttrack, sign, rawchickenleg, speedpotion, bluecarpet, cavewatergrass, shears, goldglaive, mesmertablet, rocklever, ancientfossilboots, oakdesk, copperore, overgrownfishingrod, icedoor, workstationduo, copperpickaxe, pinechest, dungeonvoidtrap, ammopouch, stonearrow, stonewall, nunchucks, sharkcostumeboots, oakdinnertable, dungeonarrowtrap, ninjastar, greaterhealthpotion, halffish, spruceclock, frosthood, snowstonebrickfloor, dungeonpressureplate, frostspear, pinesapling, spiderstaff, glowcoral, quillandparchment, frostshard, skull, stonearrowtrap, firechalice, myceliumchestplate, goldsword, batwing, resistancepotion, fins, dungeonwall, woodfencegate, apiary, pinelog, woodboat, storagebox, snowstonedoor, spikedbatboots, ironpickaxe, ironaxe, leatherdashers, goldchestplate, bannerofdamage, oakbathtub, mushroom, sapphire, cookingpot, chickencostumeshirt, hysteriatablet, frozensoul, spiderboots, frostboots, snowstone, dungeondesk, dungeoncabinet, icejavelin, manapotion, sprucedesk, grindthealarmsvinyl, stonebrickfloor, sharkmask, pinedisplay, dungeonbench, fieldsofserenityvinyl, brokenherbglassdisplay, clay, dungeonchair, oakcandelabra, sharkscales, oakcabinet, rawmutton, ironhelmet, ironore, oaktoilet, dungeonmap, sprucemodulartable, recipebook, binoculars, compostbin, pottedplant4, ironanvil, sprucebed, gobfish, cabbageseed, settlementflag, copperpitchfork, wool, goldaxe, dungeonchest, whiteflowerpatch, horsecostumeshirt, trout, alchemytable, frostarrow, decorativepot2, glacialboomerang, spelunkerpotion, donut, herring, sprucecandelabra, paintinglargeship, piratebandana, glass, blueberry, deepladderdown, pineclock, paintinglargecastle, cornseed, recallscroll, goldore, coconut, rocktile, frostbow, dungeonbathtub, forge, dungeonmodulartable, simplebullet, portalflask, dungeontoilet, attackspeedpotion, horsemask, glacialaxe, coin, stonepressureplate, blueberrysapling, book, amethyst, apple, meatballs, sharktooth, willowchest, honey, craftingguide, paintingbroken, homeatlastvinyl, skeletonstaff, woodshield, ironbomb, frozenheart, knockbackpotion, bone, copperbar, guardianshell, shinebelt, polarnightvinyl, frenzyorb, stone, cavelingsfoot, grassseed, healthpotion, mysteriousportal, depthsoftheforestvinyl, raspberrysapling, oakbench, roastedfish, goldspear, piratechest, dungeoncandelabra, lightninghammer, frosthelmet, cabbage, spoiledfood, noblehorseshoe, awakeningtwilightvinyl, roastingstation, infinitewaterbucket, stonepathtile, voidspear, sapphiregravel, voidshard, woodfence, katana, partyhat, travelercloak, pirateshirt, woodshovel, shishkebab, snowstonewall, raspberry, dungeondisplay, heavyhammer, ancientfossilmask, sugarbeet, blinkscepter, accuracypotion, glyphtrapreversedamage, mobilitycloak, ironarrow, leather, sprucedisplay, minecart, carp, brokencoppertool, handgun, waystone, roastedrabbitleg, airlockfailurevinyl, wooddoor, snowcandlepedestal, leatherboots, frostchestplate, goldshovel, sprucelog, recallflask, oakmodulartable, reaperscythe, feedingtrough, magicbranch, runestone, barrel, bouncingbullet, constructionhammer, chickenmask, balancedfrostfirefoci, sunflowerseed, healthregenpotion, hoverboard, chickencostumeboots, mapfragment, voidalchemytable, ancientfossilshovel, shirt, firemoneseed, plainsgrassseed, frogleg, stinkflask, furfish, tungstensword, myceliumboots, corn, iceblossomseed, piratemap, bloodbolt, dungeondoublebed, dungeonclock, rabbitleg, oakchair, teleportationscroll, icepickaxe, campfire, steelboat, stonedoor, goldbar, potionpouch, dungeonfloor, watergrass, salmon, eggnest, dungeondresser, goldhelmet, duckbreast, bouncingarrow, cryostaff, voidboomerang, dogplush, reaperscall, pinedoublebed, tuna, steak, snowstonearrowtrap, manaregenpotion, goldcrown, oakchest, meadowmeanderingvinyl, clothscraps, bannerofspeed, rapidpotion, voidsembracevinyl, cryoessence, woodfishingrod, sandtile, glyphtrapbounce, wheatseed, revivalpotion, birchsapling, oaksapling, fertilizer, slimeessence, frogcostumeboots, lunchbox, icewall, waterfaevinyl, frostsword, frostaxe, brokenirontool, oakbed, woodaxe, shadowbeam]
+		},
+		mob_kills = {
+			bonewalker = 4,
+			chicken = 6,
+			trenchcoatgoblinstacked = 27,
+			runeboundbrute = 8,
+			pirateraider = 7,
+			cavemole = 18,
+			runeboundshaman = 26,
+			enchantedzombiearcher = 95,
+			humanraider = 34,
+			cow = 41,
+			frozendwarf = 157,
+			mouse = 111,
+			snowhare = 15,
+			frog = 1,
+			trenchcoatgoblinchestplate = 26,
+			duck = 5,
+			rabbit = 19,
+			vampire = 121,
+			zombie = 1224,
+			frostsentry = 14,
+			goblin = 206,
+			zombiearcher = 369,
+			sheep = 22,
+			ram = 4,
+			giantcavespider = 67,
+			shark = 18,
+			rooster = 1,
+			turtle = 1,
+			swampslime = 14,
+			portalminion = 22,
+			trenchcoatgoblinhelmet = 26,
+			enchantedcrawlingzombie = 25,
+			stonecaveling = 24,
+			crawlingzombie = 74,
+			grizzlybear = 2,
+			voidapprentice = 57,
+			cropplerbeet = 14,
+			enchantedzombie = 131,
+			squirrel = 14,
+			runeboundtrapper = 20,
+			trapperzombie = 131,
+			trenchcoatgoblinshoes = 27,
+			snowstonecaveling = 12,
+			spider = 127,
+			bull = 10,
+			blackcavespider = 12,
+			penguin = 1,
+			crab = 1
+		},
+		food_consumed = {
+			bread = 22,
+			cabbage = 14,
+			raspberryjuice = 5,
+			blueberry = 15,
+			steak = 34,
+			egg = 1,
+			popcorn = 5,
+			tomato = 3,
+			meatballs = 8,
+			rabbitleg = 1,
+			donut = 1,
+			beet = 1,
+			roastedrabbitleg = 23,
+			shishkebab = 1,
+			roastedfish = 37,
+			roastedmutton = 8
+		},
+		potions_consumed = {
+			fireresistancepotion = 1,
+			battlepotion = 7,
+			healthpotion = 132,
+			resistancepotion = 8,
+			healthregenpotion = 14,
+			rapidpotion = 2,
+			manaregenpotion = 1,
+			attackspeedpotion = 12,
+			knockbackpotion = 5,
+			accuracypotion = 3,
+			speedpotion = 3
+		},
+		challenges_completed = {
+			completedchallenges = [mineorewithexplosive, beatabear, impalejavelins, findvoidwizardchamber, equipfrostset, killzombies, usemysteriousportal, defeatcaveling, capturecow, destroyroyalegg, upgradealchemytable, gathermushrooms, freecapturedmage]
+		},
+		challenges_claimed = {
+			claimedchallenges = [beatabear, mineorewithexplosive, impalejavelins, findvoidwizardchamber, snowcave, equipfrostset, killzombies, forestsurface, usemysteriousportal, capturecow, defeatcaveling, destroyroyalegg, dungeon, forestcave, upgradealchemytable, freecapturedmage]
+		},
+		challenges_data = {
+			gndData = {
+				pickupswamplarvaePickups = {
+					gndType = int,
+					value = 3
+				},
+				impalejavelinsHits-1116142362 = {
+					gndType = longarraylist,
+					value = [3472383,3473336]
+				},
+				smackleafpilesDestroys = {
+					gndType = int,
+					value = 15
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,147 @@
+{
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1393,
+		tileY = -1683
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1471,
+		tileY = -1689
+	},
+	PRESET = {
+		presetStringID = katanaruins,
+		tileX = -1304,
+		tileY = -1780
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1308,
+		tileY = -1809
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1253,
+		tileY = -1855
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1569,
+		tileY = -1860
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1703,
+		tileY = -1836
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1751,
+		tileY = -1844
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1742,
+		tileY = -1828
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1725,
+		tileY = -1890
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1855,
+		tileY = -1838
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1873,
+		tileY = -1840
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1993,
+		tileY = -1784
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1834,
+		tileY = -1585
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1247,
+		tileY = -1492
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1197,
+		tileY = -1517
+	},
+	PRESET = {
+		presetStringID = dungeonentrance,
+		tileX = -1776,
+		tileY = -1460
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1886,
+		tileY = -1390
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1585,
+		tileY = -1436
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1219,
+		tileY = -1688
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1197,
+		tileY = -1722
+	},
+	PRESET = {
+		presetStringID = dungeonentrance,
+		tileX = -1244,
+		tileY = -1967
+	},
+	PRESET = {
+		presetStringID = surfacevillages,
+		tileX = -1093,
+		tileY = -1810
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1040,
+		tileY = -1829
+	},
+	PRESET = {
+		presetStringID = katanaruins,
+		tileX = -1051,
+		tileY = -1734
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1065,
+		tileY = -1694
+	},
+	PRESET = {
+		presetStringID = katanaruins,
+		tileX = -1153,
+		tileY = -1654
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1090,
+		tileY = -1644
+	},
+	PRESET = {
+		presetStringID = surfaceruins,
+		tileX = -1194,
+		tileY = -1611
+	}
+}
